@@ -75,7 +75,9 @@ I thrive in both collaborative team environments and independent work settings, 
 
 # 💡 Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<!--QUOTE_START-->
+> **"Code. Learn. Build. Repeat."**
+<!--QUOTE_END-->
 
 ---
 
