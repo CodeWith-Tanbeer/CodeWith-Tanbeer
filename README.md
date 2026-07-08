@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Intentions count in your actions." — Abu Bakr (R.A)**
+> **"Do not follow vain desires; for verily he who prospers is preserved from lust, greed and anger." — Abu Bakr (R.A)**
 <!--QUOTE_END-->
 
 ---
