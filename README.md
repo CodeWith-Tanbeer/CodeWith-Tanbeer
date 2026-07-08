@@ -1,7 +1,6 @@
 <div align="center">
 
 # 👋 Hi, I'm Tanbeer
-
 ### 🚀 Java Full Stack Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Next.js;Always+Learning+Something+New;Building+Real+World+Projects" />
@@ -34,7 +33,6 @@ I thrive in both collaborative team environments and independent work settings, 
 
 ### ⚙ Backend
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -54,33 +52,30 @@ I thrive in both collaborative team environments and independent work settings, 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 
+---
+
 # 🌐 Connect With Me
 
 <p>
-
 <a href="https://github.com/CodeWith-Tanbeer">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
 <a href="https://www.linkedin.com/in/tanbeer-tech">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-
 <a href="REPLACE_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
 </a>
-
 <a href="mailto:Tanbeerahmed07@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
-
 </p>
 
 ---
 
 # 💡 Quote
 
-> **"Code. Learn. Build. Repeat."**
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
@@ -89,7 +84,6 @@ I thrive in both collaborative team environments and independent work settings, 
 ### ⭐ Thanks for visiting my profile!
 
 If you like my work,
-
 don't forget to ⭐ my repositories.
 
 <img src="https://komarev.com/ghpvc/?username=CodeWith-Tanbeer&label=Profile%20Views&color=0e75b6&style=flat"/>
