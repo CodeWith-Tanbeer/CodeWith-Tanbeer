@@ -16,8 +16,8 @@ jobs:
 
       - name: Fetch a new quote
         run: |
-          RESPONSE=$(curl -s https://api.quotable.io/random)
-          QUOTE=$(echo "$RESPONSE" | jq -r '.content')
+          RESPONSE=$(curl -s https://dummyjson.com/quotes/random)
+          QUOTE=$(echo "$RESPONSE" | jq -r '.quote')
           AUTHOR=$(echo "$RESPONSE" | jq -r '.author')
           echo "QUOTE_TEXT=\"$QUOTE\" — $AUTHOR" >> $GITHUB_ENV
 
