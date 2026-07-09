@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I looked for God. I went to a temple and I didn't find him there. Then I went to a church and I didn't find him there. The I went to a mosque and I didn't find him there. Then finally I looked in my heart and there he was." — Rumi**
+> **"The criterion of action is that todays work should not be deferred till the following day." — Umar ibn Al-Khattāb (R.A)**
 <!--QUOTE_END-->
 
 ---
