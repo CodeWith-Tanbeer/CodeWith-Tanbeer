@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The criterion of action is that todays work should not be deferred till the following day." — Umar ibn Al-Khattāb (R.A)**
+> **"Those who cannot work with their hearts achieve but a hollow, half-hearted success that breeds bitterness all around." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
