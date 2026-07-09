@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Do not follow vain desires; for verily he who prospers is preserved from lust, greed and anger." — Abu Bakr (R.A)**
+> **"Always remember you are braver than you believe, stronger than you seem, smarter than you think and twice as beautiful as you'd ever imagined. Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself." — Rumi**
 <!--QUOTE_END-->
 
 ---
