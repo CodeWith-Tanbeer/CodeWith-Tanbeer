@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Your heart knows the way. Run in that direction." — Rumi**
+> **"A Man Wrapped Up In Himself Makes A Very Small Bundle." — Benjamin Franklin**
 <!--QUOTE_END-->
 
 ---
