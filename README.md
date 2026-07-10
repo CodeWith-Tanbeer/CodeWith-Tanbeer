@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"A Man Wrapped Up In Himself Makes A Very Small Bundle." — Benjamin Franklin**
+> **"As We Look Ahead Into The Next Century, Leaders Will Be Those Who Empower Others." — Bill Gates**
 <!--QUOTE_END-->
 
 ---
