@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"As We Look Ahead Into The Next Century, Leaders Will Be Those Who Empower Others." — Bill Gates**
+> **"Life Well Spent Is Long." — Leonardo Da Vinci**
 <!--QUOTE_END-->
 
 ---
