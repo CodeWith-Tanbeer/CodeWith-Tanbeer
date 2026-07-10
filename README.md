@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Those who cannot work with their hearts achieve but a hollow, half-hearted success that breeds bitterness all around." — Abdul Kalam**
+> **"Your heart knows the way. Run in that direction." — Rumi**
 <!--QUOTE_END-->
 
 ---
