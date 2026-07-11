@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Courage Is What It Takes To Stand Up And Speak; Courage Is Also What It Takes To Sit Down And Listen." — Winston Churchill**
+> **"In The Business World, The Rearview Mirror Is Always Clearer Than The Windshield." — Warren Buffett**
 <!--QUOTE_END-->
 
 ---
