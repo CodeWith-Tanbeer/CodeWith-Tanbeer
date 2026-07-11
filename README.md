@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"If my mind can conceive it, and my heart can believe it, then I can achieve it." — Muhammad Ali**
+> **"He who fears to weep, should learn to be kind to those who weep." — Abu Bakr (R.A)**
 <!--QUOTE_END-->
 
 ---
