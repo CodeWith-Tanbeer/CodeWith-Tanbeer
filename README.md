@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"He who fears to weep, should learn to be kind to those who weep." — Abu Bakr (R.A)**
+> **"Courage Is What It Takes To Stand Up And Speak; Courage Is Also What It Takes To Sit Down And Listen." — Winston Churchill**
 <!--QUOTE_END-->
 
 ---
