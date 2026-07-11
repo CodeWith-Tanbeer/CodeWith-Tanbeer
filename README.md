@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Life Well Spent Is Long." — Leonardo Da Vinci**
+> **"If my mind can conceive it, and my heart can believe it, then I can achieve it." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
