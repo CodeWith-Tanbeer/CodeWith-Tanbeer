@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"My toughest fight was with my first wife." — Muhammad Ali**
+> **"No one starts out on top. You have to work your way up." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
