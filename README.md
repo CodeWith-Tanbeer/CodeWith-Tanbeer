@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Let me alone, and go in search of someone else." — Ali ibn Abi Talib (R.A)**
+> **"People of the world don't look at themselves, and so they blame one another." — Rumi**
 <!--QUOTE_END-->
 
 ---
