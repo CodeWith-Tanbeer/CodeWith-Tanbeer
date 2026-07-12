@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"No one starts out on top. You have to work your way up." — Muhammad Ali**
+> **"Let me alone, and go in search of someone else." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
