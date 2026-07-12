@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"In The Business World, The Rearview Mirror Is Always Clearer Than The Windshield." — Warren Buffett**
+> **"My toughest fight was with my first wife." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
