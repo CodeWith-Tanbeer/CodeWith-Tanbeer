@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"People of the world don't look at themselves, and so they blame one another." — Rumi**
+> **"My Dream Is Of A Place And A Time Where America Will Once Again Be Seen As The Last Best Hope Of Earth." — Abraham Lincoln**
 <!--QUOTE_END-->
 
 ---
