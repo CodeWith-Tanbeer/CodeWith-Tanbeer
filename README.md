@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I Do Not Think Much Of A Man Who Is Not Wiser Today Than He Was Yesterday." — Abraham Lincoln**
+> **"Vanity prevents improvement." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
