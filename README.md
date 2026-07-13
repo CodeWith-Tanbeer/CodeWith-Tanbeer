@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"My Dream Is Of A Place And A Time Where America Will Once Again Be Seen As The Last Best Hope Of Earth." — Abraham Lincoln**
+> **"Think Of All The Beauty Still Left Around You And Be Happy." — Anne Frank**
 <!--QUOTE_END-->
 
 ---
