@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Think Of All The Beauty Still Left Around You And Be Happy." — Anne Frank**
+> **"I Do Not Think Much Of A Man Who Is Not Wiser Today Than He Was Yesterday." — Abraham Lincoln**
 <!--QUOTE_END-->
 
 ---
