@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I closed my mouth and spoke to you in a hundred silent ways." — Rumi**
+> **"To forgive an oppressor is oppression upon the oppressed." — Umar ibn Al-Khattāb (R.A)**
 <!--QUOTE_END-->
 
 ---
