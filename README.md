@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"There Is More Treasure In Books Than In All The Pirate'S Loot On Treasure Island." — Walt Disney**
+> **"I closed my mouth and spoke to you in a hundred silent ways." — Rumi**
 <!--QUOTE_END-->
 
 ---
