@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Vanity prevents improvement." — Ali ibn Abi Talib (R.A)**
+> **"Its good to leave each day behind, like flowing water, free of sadness. Yesterday is gone and its tale told. Today new seeds are growing." — Rumi**
 <!--QUOTE_END-->
 
 ---
