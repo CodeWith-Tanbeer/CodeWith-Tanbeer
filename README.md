@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Wealth tends to create enemies, whereas knowledge tends to warm hearts." — Ali ibn Abi Talib (R.A)**
+> **"The Secret Of Getting Ahead Is Getting Started" — Mark Twain**
 <!--QUOTE_END-->
 
 ---
