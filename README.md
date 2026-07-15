@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"To forgive an oppressor is oppression upon the oppressed." — Umar ibn Al-Khattāb (R.A)**
+> **"Wealth tends to create enemies, whereas knowledge tends to warm hearts." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
