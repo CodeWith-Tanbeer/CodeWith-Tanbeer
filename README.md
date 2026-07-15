@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The Secret Of Getting Ahead Is Getting Started" — Mark Twain**
+> **"I Wish People Would Love Everybody Else The Way They Love Me. It Would Be A Better World." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
