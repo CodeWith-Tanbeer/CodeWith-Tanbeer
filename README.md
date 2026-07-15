@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I Wish People Would Love Everybody Else The Way They Love Me. It Would Be A Better World." — Muhammad Ali**
+> **"I Was Influenced A Lot By Those Around Me - There Was A Lot Of Singing That Went On In The Cotton Fields." — Willie Nelson**
 <!--QUOTE_END-->
 
 ---
