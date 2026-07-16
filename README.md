@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I Don'T Like That Man. I Must Get To Know Him Better." — Abraham Lincoln**
+> **"Nothing In Life Is To Be Feared, It Is Only To Be Understood. Now Is The Time To Understand More, So That We May Fear Less." — Marie Curie**
 <!--QUOTE_END-->
 
 ---
