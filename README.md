@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Nothing In Life Is To Be Feared, It Is Only To Be Understood. Now Is The Time To Understand More, So That We May Fear Less." — Marie Curie**
+> **"What Can You Do To Promote World Peace? Go Home And Love Your Family." — Mother Teresa**
 <!--QUOTE_END-->
 
 ---
