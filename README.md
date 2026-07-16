@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I Was Influenced A Lot By Those Around Me - There Was A Lot Of Singing That Went On In The Cotton Fields." — Willie Nelson**
+> **"I Don'T Like That Man. I Must Get To Know Him Better." — Abraham Lincoln**
 <!--QUOTE_END-->
 
 ---
