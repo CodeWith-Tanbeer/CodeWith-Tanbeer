@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"There is no goodness in people who don't give advice, and there is no goodness in people who don't like to be advised." — Umar ibn Al-Khattāb (R.A)**
+> **"When you're right, nobody remembers. When you're wrong, nobody forgets." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
