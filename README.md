@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"As He Was Valiant, I Honour Him. But As He Was Ambitious, I Slew Him." — William Shakespeare**
+> **"There is no goodness in people who don't give advice, and there is no goodness in people who don't like to be advised." — Umar ibn Al-Khattāb (R.A)**
 <!--QUOTE_END-->
 
 ---
