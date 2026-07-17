@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"A True friend is one who sees a fault, gives you advice and who defends you in your absence." — Ali ibn Abi Talib (R.A)**
+> **"It is a matter of shame that in the morning the birds should be awake earlier than you." — Abu Bakr (R.A)**
 <!--QUOTE_END-->
 
 ---
