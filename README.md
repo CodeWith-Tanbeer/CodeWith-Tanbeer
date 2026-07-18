@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"If You'Re Going To Be Crazy, You Have To Get Paid For It Or Else You'Re Going To Be Locked Up." — Hunter S. Thompson**
+> **"Every Aspect Of Western Culture Needs A New Code Of Ethics - A Rational Ethics - As A Precondition Of Rebirth." — Ayn Rand**
 <!--QUOTE_END-->
 
 ---
