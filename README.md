@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"When you're right, nobody remembers. When you're wrong, nobody forgets." — Muhammad Ali**
+> **"The Very Essence Of Instinct Is That It'S Followed Independently Of Reason." — Charles Darwin**
 <!--QUOTE_END-->
 
 ---
