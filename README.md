@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"No Part Of The Education Of A Politician Is More Indispensable Than The Fighting Of Elections." — Winston Churchill**
+> **"If You'Re Going To Be Crazy, You Have To Get Paid For It Or Else You'Re Going To Be Locked Up." — Hunter S. Thompson**
 <!--QUOTE_END-->
 
 ---
