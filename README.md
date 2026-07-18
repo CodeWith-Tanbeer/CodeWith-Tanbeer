@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The Very Essence Of Instinct Is That It'S Followed Independently Of Reason." — Charles Darwin**
+> **"No Part Of The Education Of A Politician Is More Indispensable Than The Fighting Of Elections." — Winston Churchill**
 <!--QUOTE_END-->
 
 ---
