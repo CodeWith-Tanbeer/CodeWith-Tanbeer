@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"To Be Perfectly Happy It Does Not Suffice To Possess Happiness, It Is Necessary To Have Deserved It." — Victor Hugo**
+> **"Just Go Up To Somebody On The Street And Say "You'Re It!" And Then Run Away." — Ellen DeGeneres**
 <!--QUOTE_END-->
 
 ---
