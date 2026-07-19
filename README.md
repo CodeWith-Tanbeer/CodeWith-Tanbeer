@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Just Go Up To Somebody On The Street And Say "You'Re It!" And Then Run Away." — Ellen DeGeneres**
+> **"What comes, will go. What is found, will be lost again. But what you are is beyond coming and going and beyond description." — Rumi**
 <!--QUOTE_END-->
 
 ---
