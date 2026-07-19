@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Every Aspect Of Western Culture Needs A New Code Of Ethics - A Rational Ethics - As A Precondition Of Rebirth." — Ayn Rand**
+> **"To Be Perfectly Happy It Does Not Suffice To Possess Happiness, It Is Necessary To Have Deserved It." — Victor Hugo**
 <!--QUOTE_END-->
 
 ---
