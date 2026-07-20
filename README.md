@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"What keeps me going is goals." — Muhammad Ali**
+> **"The Function Of Muscle Is To Pull And Not To Push, Except In The Case Of The Genitals And The Tongue." — Leonardo Da Vinci**
 <!--QUOTE_END-->
 
 ---
