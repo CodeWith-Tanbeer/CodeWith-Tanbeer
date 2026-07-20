@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Yesterday Is Gone. Tomorrow Has Not Yet Come. We Have Only Today. Let Us Begin." — Mother Teresa**
+> **"What keeps me going is goals." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
