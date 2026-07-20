@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The Function Of Muscle Is To Pull And Not To Push, Except In The Case Of The Genitals And The Tongue." — Leonardo Da Vinci**
+> **"We have not invaded anyone. We have not conquered anyone. We have not grabbed their land, their culture, their history and tried to enforce our way of life on them." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
