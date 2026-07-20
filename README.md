@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"We have not invaded anyone. We have not conquered anyone. We have not grabbed their land, their culture, their history and tried to enforce our way of life on them." — Abdul Kalam**
+> **"I have never regretted my silence. As for my speech, I have regretted it over and over again." — Umar ibn Al-Khattāb (R.A)**
 <!--QUOTE_END-->
 
 ---
