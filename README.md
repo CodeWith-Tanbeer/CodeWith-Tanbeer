@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I have never regretted my silence. As for my speech, I have regretted it over and over again." — Umar ibn Al-Khattāb (R.A)**
+> **"The Trouble With Censors Is That They Worry If A Girl Has Cleavage. They Ought To Worry If She Hasn'T Any." — Marilyn Monroe**
 <!--QUOTE_END-->
 
 ---
