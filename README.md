@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The Trouble With Censors Is That They Worry If A Girl Has Cleavage. They Ought To Worry If She Hasn'T Any." — Marilyn Monroe**
+> **"In a democracy, the well-being, individuality and happiness of every citizen is important for the overall prosperity, peace and happiness of the nation." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
