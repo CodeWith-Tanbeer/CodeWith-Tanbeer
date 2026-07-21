@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"After Coming Into Contact With A Religious Man I Always Feel I Must Wash My Hands." — Friedrich Nietzsche**
+> **"Most People Spend More Time And Energy Going Around Problems Than In Trying To Solve Them." — Henry Ford**
 <!--QUOTE_END-->
 
 ---
