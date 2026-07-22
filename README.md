@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The breezes at dawn have secrets to tell you Don't go back to sleep! You must ask for what you really want. Don't go back to sleep! People are going back and forth across the doorsill where the two worlds touch, The door is round and open Don't go back to sleep!" — Rumi**
+> **"When learning is purposeful, creativity blossoms. When creativity blossoms, thinking emanates. When thinking emanates, knowledge is fully lit. When knowledge is lit, economy flourishes." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
