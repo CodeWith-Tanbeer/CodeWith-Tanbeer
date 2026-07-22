@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Israel, As The Jewish State, Must Disappear From The Map." — Ahmed Yassin**
+> **"I Say That The Most Liberating Thing About Beauty Is Realizing That You Are The Beholder." — Salma Hayek**
 <!--QUOTE_END-->
 
 ---
