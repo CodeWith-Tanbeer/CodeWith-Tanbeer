@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Most People Spend More Time And Energy Going Around Problems Than In Trying To Solve Them." — Henry Ford**
+> **"The breezes at dawn have secrets to tell you Don't go back to sleep! You must ask for what you really want. Don't go back to sleep! People are going back and forth across the doorsill where the two worlds touch, The door is round and open Don't go back to sleep!" — Rumi**
 <!--QUOTE_END-->
 
 ---
