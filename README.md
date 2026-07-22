@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"When learning is purposeful, creativity blossoms. When creativity blossoms, thinking emanates. When thinking emanates, knowledge is fully lit. When knowledge is lit, economy flourishes." — Abdul Kalam**
+> **"Israel, As The Jewish State, Must Disappear From The Map." — Ahmed Yassin**
 <!--QUOTE_END-->
 
 ---
