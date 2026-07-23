@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"As He Was Valiant, I Honour Him. But As He Was Ambitious, I Slew Him." — William Shakespeare**
+> **"Impossible is nothing." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
