@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Impossible is nothing." — Muhammad Ali**
+> **"Do not deceive or be faithless even with your enemy." — Abu Bakr (R.A)**
 <!--QUOTE_END-->
 
 ---
