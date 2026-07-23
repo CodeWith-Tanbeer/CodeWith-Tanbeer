@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I Say That The Most Liberating Thing About Beauty Is Realizing That You Are The Beholder." — Salma Hayek**
+> **"As He Was Valiant, I Honour Him. But As He Was Ambitious, I Slew Him." — William Shakespeare**
 <!--QUOTE_END-->
 
 ---
