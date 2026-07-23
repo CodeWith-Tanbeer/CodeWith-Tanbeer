@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Do not deceive or be faithless even with your enemy." — Abu Bakr (R.A)**
+> **"That's okay, I'm still the Greatest." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
