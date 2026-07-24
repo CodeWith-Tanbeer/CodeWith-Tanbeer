@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"This being human is a guest house. Every morning a new arrival. Welcome and entertain them all!" — Rumi**
+> **"Truly great people in history never wanted to be great for themselves. All they wanted was the chance to do good for others and be close to God." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
