@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"That's okay, I'm still the Greatest." — Muhammad Ali**
+> **"This being human is a guest house. Every morning a new arrival. Welcome and entertain them all!" — Rumi**
 <!--QUOTE_END-->
 
 ---
