@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The Lord Prefers Common-Looking People. That Is Why He Makes So Many Of Them." — Abraham Lincoln**
+> **"Those Who Dare To Fail Miserably Can Achieve Greatly." — John F. Kennedy**
 <!--QUOTE_END-->
 
 ---
