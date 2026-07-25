@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"He who avoids complaint invites happiness." — Abu Bakr (R.A)**
+> **"Our Prime Purpose In This Life Is To Help Others. And If You Can'T Help Them, At Least Don'T Hurt Them." — Dalai Lama**
 <!--QUOTE_END-->
 
 ---
