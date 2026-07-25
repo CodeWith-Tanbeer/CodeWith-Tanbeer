@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Those Who Dare To Fail Miserably Can Achieve Greatly." — John F. Kennedy**
+> **"Our Prime Purpose In This Life Is To Help Others. And If You Can'T Help Them, At Least Don'T Hurt Them." — Dalai Lama**
 <!--QUOTE_END-->
 
 ---
