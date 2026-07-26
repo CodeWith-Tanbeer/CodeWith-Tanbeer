@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Be afraid of a dignified man when he is hungry and a wicked man when his belly is full." — Ali ibn Abi Talib (R.A)**
+> **"All loves are a bridge to Divine love. Yet, those who have not had a taste of it do not know!" — Rumi**
 <!--QUOTE_END-->
 
 ---
