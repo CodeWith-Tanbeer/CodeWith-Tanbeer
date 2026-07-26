@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Purify your eyes, and see the pure world. Your life will fill with radiant forms." — Rumi**
+> **"Be afraid of a dignified man when he is hungry and a wicked man when his belly is full." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
