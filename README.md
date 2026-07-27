@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Don’T Let The Noise Of Others’ Opinions Drown Out Your Own Inner Voice." — Steve Jobs**
+> **"In your light I learn how to love." — Rumi**
 <!--QUOTE_END-->
 
 ---
