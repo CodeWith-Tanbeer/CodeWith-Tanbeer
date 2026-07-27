@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"In your light I learn how to love." — Rumi**
+> **"I'm so fast that last night I turned off the light switch in my hotel room and was in bed before the room was dark." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
