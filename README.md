@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I'm so fast that last night I turned off the light switch in my hotel room and was in bed before the room was dark." — Muhammad Ali**
+> **"In The Depth Of Winter I Finally Learned That There Was In Me An Invincible Summer." — Albert Camus**
 <!--QUOTE_END-->
 
 ---
