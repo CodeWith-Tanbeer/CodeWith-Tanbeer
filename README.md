@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Thinking is the capital, Enterprise is the way, Hard Work is the solution." — Abdul Kalam**
+> **"When you see that any scholar loves the world, then his scholarship is in doubt." — Umar ibn Al-Khattāb (R.A)**
 <!--QUOTE_END-->
 
 ---
