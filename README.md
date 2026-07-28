@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The worst of our faults is our interest in other people's faults." — Ali ibn Abi Talib (R.A)**
+> **"The Two Hardest Tests On The Spiritual Road Are The Patience To Wait For The Right Moment And The Courage Not To Be Disappointed With What We Encounter." — Paulo Coelho**
 <!--QUOTE_END-->
 
 ---
