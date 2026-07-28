@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"In The Depth Of Winter I Finally Learned That There Was In Me An Invincible Summer." — Albert Camus**
+> **"The worst of our faults is our interest in other people's faults." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
