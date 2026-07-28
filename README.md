@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The Two Hardest Tests On The Spiritual Road Are The Patience To Wait For The Right Moment And The Courage Not To Be Disappointed With What We Encounter." — Paulo Coelho**
+> **"Thinking is the capital, Enterprise is the way, Hard Work is the solution." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
