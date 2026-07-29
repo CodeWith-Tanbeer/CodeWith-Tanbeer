@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"This Is One Small Step For A Man, One Giant Leap For Mankind." — Neil Armstrong**
+> **"What is the secret of success? Right decisions. How do you make right decisions? Experience. How do you gain experience? Wrong decisions." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
