@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"What is the secret of success? Right decisions. How do you make right decisions? Experience. How do you gain experience? Wrong decisions." — Abdul Kalam**
+> **"There Is Always Some Madness In Love. But There Is Also Always Some Reason In Madness." — Friedrich Nietzsche**
 <!--QUOTE_END-->
 
 ---
