@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I'Ve Learned That People Will Forget What You Said, People Will Forget What You Did, But People Will Never Forget How You Made Them Feel." — Maya Angelou**
+> **"This Is One Small Step For A Man, One Giant Leap For Mankind." — Neil Armstrong**
 <!--QUOTE_END-->
 
 ---
