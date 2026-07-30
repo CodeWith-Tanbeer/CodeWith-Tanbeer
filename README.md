@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"When In Doubt, Go For The Dick Joke." — Robin Williams**
+> **"Do The Right Thing. It Will Gratify Some People And Astonish The Rest." — Mark Twain**
 <!--QUOTE_END-->
 
 ---
