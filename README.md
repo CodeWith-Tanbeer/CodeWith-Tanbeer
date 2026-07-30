@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"There Is Always Some Madness In Love. But There Is Also Always Some Reason In Madness." — Friedrich Nietzsche**
+> **"Your Successes And Happiness Are Forgiven You Only If You Generously Consent To Share Them." — Albert Camus**
 <!--QUOTE_END-->
 
 ---
