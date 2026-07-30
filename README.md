@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Your Successes And Happiness Are Forgiven You Only If You Generously Consent To Share Them." — Albert Camus**
+> **"Children make you want to start life over." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
