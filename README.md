@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Children make you want to start life over." — Muhammad Ali**
+> **"When In Doubt, Go For The Dick Joke." — Robin Williams**
 <!--QUOTE_END-->
 
 ---
