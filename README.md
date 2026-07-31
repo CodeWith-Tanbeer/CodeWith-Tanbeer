@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Do The Right Thing. It Will Gratify Some People And Astonish The Rest." — Mark Twain**
+> **"The Difference Between A Mountain And A Molehill Is Your Perspective." — Al Neuharth**
 <!--QUOTE_END-->
 
 ---
