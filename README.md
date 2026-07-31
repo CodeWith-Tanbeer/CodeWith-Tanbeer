@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Our greatest strength lies in the gentleness and tenderness of our heart." — Rumi**
+> **"Always consider your intellect to be lacking; otherwise too much faith in it surely leads to error." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
