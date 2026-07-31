@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Always consider your intellect to be lacking; otherwise too much faith in it surely leads to error." — Ali ibn Abi Talib (R.A)**
+> **"Spread Love Everywhere You Go. Let No One Ever Come To You Without Leaving Happier." — Mother Teresa**
 <!--QUOTE_END-->
 
 ---
