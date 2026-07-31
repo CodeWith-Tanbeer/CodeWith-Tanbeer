@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The Difference Between A Mountain And A Molehill Is Your Perspective." — Al Neuharth**
+> **"Our greatest strength lies in the gentleness and tenderness of our heart." — Rumi**
 <!--QUOTE_END-->
 
 ---
