@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Spread Love Everywhere You Go. Let No One Ever Come To You Without Leaving Happier." — Mother Teresa**
+> **"It'S Not What You'Ve Got, It'S What You Use That Makes A Difference." — Zig Ziglar**
 <!--QUOTE_END-->
 
 ---
