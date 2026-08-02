@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Poverty is the worst form of death." — Ali ibn Abi Talib (R.A)**
+> **"The Object Of The Superior Man Is Truth." — Confucius**
 <!--QUOTE_END-->
 
 ---
