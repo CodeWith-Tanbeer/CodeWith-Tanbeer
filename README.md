@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Hope Is A Waking Dream." — Aristotle**
+> **"Poverty is the worst form of death." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
