@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"He Who Has Never Learned To Obey Cannot Be A Good Commander." — Aristotle**
+> **"Things Won Are Done, Joy'S Soul Lies In The Doing." — William Shakespeare**
 <!--QUOTE_END-->
 
 ---
