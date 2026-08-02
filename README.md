@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The Object Of The Superior Man Is Truth." — Confucius**
+> **"He Who Has Never Learned To Obey Cannot Be A Good Commander." — Aristotle**
 <!--QUOTE_END-->
 
 ---
