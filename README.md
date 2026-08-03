@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Do not hate what you do not know, for the greater part of knowledge consists of what you do not know." — Ali ibn Abi Talib (R.A)**
+> **"Many A Man Thinks He Is Buying Pleasure, When He Is Really Selling Himself To It." — Benjamin Franklin**
 <!--QUOTE_END-->
 
 ---
