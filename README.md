@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Things Won Are Done, Joy'S Soul Lies In The Doing." — William Shakespeare**
+> **"Do not hate what you do not know, for the greater part of knowledge consists of what you do not know." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
