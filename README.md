@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Many A Man Thinks He Is Buying Pleasure, When He Is Really Selling Himself To It." — Benjamin Franklin**
+> **"The true believer is rewarded in every thing, even in affliction." — Abu Bakr (R.A)**
 <!--QUOTE_END-->
 
 ---
