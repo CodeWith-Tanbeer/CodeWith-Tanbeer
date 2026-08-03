@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The true believer is rewarded in every thing, even in affliction." — Abu Bakr (R.A)**
+> **"Live amongst people in such a manner that if you die they weep over you and if you are alive they crave for your company." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
