@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"You are not just the drop in the ocean. You are the mighty ocean in the drop." — Rumi**
+> **"Riches without faith are the greatest poverty." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
