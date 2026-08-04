@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I am grateful for all my victories, but I am especially grateful for my losses, because they only made me work harder." — Muhammad Ali**
+> **"I Have Not Failed. I'Ve Just Found 10 000 Ways That Won'T Work." — Thomas A. Edison**
 <!--QUOTE_END-->
 
 ---
