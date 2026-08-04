@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I Have Not Failed. I'Ve Just Found 10 000 Ways That Won'T Work." — Thomas A. Edison**
+> **"You are not just the drop in the ocean. You are the mighty ocean in the drop." — Rumi**
 <!--QUOTE_END-->
 
 ---
