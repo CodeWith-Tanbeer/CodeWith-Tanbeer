@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Live amongst people in such a manner that if you die they weep over you and if you are alive they crave for your company." — Ali ibn Abi Talib (R.A)**
+> **"I am grateful for all my victories, but I am especially grateful for my losses, because they only made me work harder." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
