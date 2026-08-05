@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Many A Good Hanging Prevents A Bad Marriage." — William Shakespeare**
+> **"Loving one another is half of wisdom." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
