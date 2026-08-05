@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Economy forced me to become a vegetarian, but I finally starting liking it." — Abdul Kalam**
+> **"Many A Good Hanging Prevents A Bad Marriage." — William Shakespeare**
 <!--QUOTE_END-->
 
 ---
