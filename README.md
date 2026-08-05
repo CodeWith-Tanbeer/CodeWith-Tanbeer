@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"A Man Should Never Neglect His Family For Business." — Walt Disney**
+> **"Economy forced me to become a vegetarian, but I finally starting liking it." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
