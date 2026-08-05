@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Riches without faith are the greatest poverty." — Ali ibn Abi Talib (R.A)**
+> **"A Man Should Never Neglect His Family For Business." — Walt Disney**
 <!--QUOTE_END-->
 
 ---
