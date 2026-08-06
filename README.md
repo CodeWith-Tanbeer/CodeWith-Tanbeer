@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Loving one another is half of wisdom." — Ali ibn Abi Talib (R.A)**
+> **"Pride In The Case Of A Rich Man Is Bad, But Pride In The Case Of A Poor Man Is Worse." — Abu Bakr**
 <!--QUOTE_END-->
 
 ---
