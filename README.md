@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Pride In The Case Of A Rich Man Is Bad, But Pride In The Case Of A Poor Man Is Worse." — Abu Bakr**
+> **"The sun is always shining someplace." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
