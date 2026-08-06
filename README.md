@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Boys, You Must Strive To Find Your Own Voice, Because The Longer You Wait To Begin The Less Likely You Are To Find It At All." — Robin Williams**
+> **"Don't you know yet? It is your Light that lights the worlds." — Rumi**
 <!--QUOTE_END-->
 
 ---
