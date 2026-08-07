@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Don't you know yet? It is your Light that lights the worlds." — Rumi**
+> **"Everything That Is Really Great And Inspiring Is Created By The Individual Who Can Labor In Freedom." — Albert Einstein**
 <!--QUOTE_END-->
 
 ---
