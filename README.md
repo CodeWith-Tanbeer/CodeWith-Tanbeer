@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"When A Person Really Desires Something, All The Universe Conspires To Help That Person To Realize His Dream." — Paulo Coelho**
+> **"A Casual Stroll Through The Lunatic Asylum Shows That Faith Does Not Prove Anything." — Friedrich Nietzsche**
 <!--QUOTE_END-->
 
 ---
