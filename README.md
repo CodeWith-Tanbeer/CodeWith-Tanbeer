@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"A Casual Stroll Through The Lunatic Asylum Shows That Faith Does Not Prove Anything." — Friedrich Nietzsche**
+> **"I Want You To Be Concerned About Your Next Door Neighbor. Do You Know Your Next Door Neighbor?" — Mother Teresa**
 <!--QUOTE_END-->
 
 ---
