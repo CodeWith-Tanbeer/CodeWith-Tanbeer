@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I Want You To Be Concerned About Your Next Door Neighbor. Do You Know Your Next Door Neighbor?" — Mother Teresa**
+> **"No sanction can stand against ignited minds." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
