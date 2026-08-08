@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"No sanction can stand against ignited minds." — Abdul Kalam**
+> **"Goodbyes are only for those who love with their eyes. Because for those who love with heart and soul there is no such thing as separation." — Rumi**
 <!--QUOTE_END-->
 
 ---
