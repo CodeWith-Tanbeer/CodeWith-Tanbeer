@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Thy lot or portion of life is seeking after thee; therefore be at rest from seeking after it." — Ali ibn Abi Talib (R.A)**
+> **"Every nation has to follow a certain policy: Commercial, trade, various other types of policies." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
