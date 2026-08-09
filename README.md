@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Every nation has to follow a certain policy: Commercial, trade, various other types of policies." — Abdul Kalam**
+> **"Life is a gamble. You can get hurt, but people die in plane crashes, lose their arms and legs in car accidents; people die every day. Same with fighters: some die, some get hurt, some go on. You just don't let yourself believe it will happen to you." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
