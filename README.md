@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Ah, Mon Cher, For Anyone Who Is Alone, Without God And Without A Master, The Weight Of Days Is Dreadful." — Albert Camus**
+> **"Let me define a leader. He must have vision and passion and not be afraid of any problem. Instead, he should know how to defeat it. Most importantly, he must work with integrity." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
