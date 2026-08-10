@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Do The Right Thing. It Will Gratify Some People And Astonish The Rest." — Mark Twain**
+> **"Even If I Knew That Tomorrow The World Would Go To Pieces, I Would Still Plant My Apple Tree." — Martin Luther**
 <!--QUOTE_END-->
 
 ---
