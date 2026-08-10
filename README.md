@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"It's not bragging if you can back it up." — Muhammad Ali**
+> **"Do The Right Thing. It Will Gratify Some People And Astonish The Rest." — Mark Twain**
 <!--QUOTE_END-->
 
 ---
