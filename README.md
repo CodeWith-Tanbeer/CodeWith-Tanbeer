@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Even If I Knew That Tomorrow The World Would Go To Pieces, I Would Still Plant My Apple Tree." — Martin Luther**
+> **"Why Shouldn'T Truth Be Stranger Than Fiction? Fiction, After All, Has To Make Sense." — Mark Twain**
 <!--QUOTE_END-->
 
 ---
