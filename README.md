@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Just Go Up To Somebody On The Street And Say "You'Re It!" And Then Run Away." — Ellen DeGeneres**
+> **"It's not bragging if you can back it up." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
