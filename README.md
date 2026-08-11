@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"A Man Who Won'T Die For Something Is Not Fit To Live." — Martin Luther King, Jr.**
+> **"Your souls are precious and can only be equal to the price of Paradise, therefore sell them only at that price." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
