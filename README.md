@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"He who trusts the world, the world betrays him." — Ali ibn Abi Talib (R.A)**
+> **"A Man Who Won'T Die For Something Is Not Fit To Live." — Martin Luther King, Jr.**
 <!--QUOTE_END-->
 
 ---
