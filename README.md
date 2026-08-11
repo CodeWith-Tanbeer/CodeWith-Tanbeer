@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Why Shouldn'T Truth Be Stranger Than Fiction? Fiction, After All, Has To Make Sense." — Mark Twain**
+> **"He who trusts the world, the world betrays him." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
