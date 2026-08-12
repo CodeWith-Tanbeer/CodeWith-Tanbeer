@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"A man may be as straight as an arrow, but even then he will have some critics." — Umar ibn Al-Khattāb (R.A)**
+> **"Without your involvement you can't succeed. With your involvement you can't fail." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
