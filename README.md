@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Without your involvement you can't succeed. With your involvement you can't fail." — Abdul Kalam**
+> **"Fear the sins that you commit in secret, because the Witness of those sins is the Judge Himself!" — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
