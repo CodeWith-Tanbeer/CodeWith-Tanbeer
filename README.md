@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Fear the sins that you commit in secret, because the Witness of those sins is the Judge Himself!" — Ali ibn Abi Talib (R.A)**
+> **"Sit with those who love Allah, for that enlightens the mind." — Umar ibn Al-Khattāb (R.A)**
 <!--QUOTE_END-->
 
 ---
