@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"In a competition of love we'll all share in the victory, no matter who comes first." — Muhammad Ali**
+> **"A man may be as straight as an arrow, but even then he will have some critics." — Umar ibn Al-Khattāb (R.A)**
 <!--QUOTE_END-->
 
 ---
