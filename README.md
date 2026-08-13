@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"It's lack of faith that makes people afraid of meeting challenges, and I believed in myself." — Muhammad Ali**
+> **"You are not just the drop in the ocean. You are the mighty ocean in the drop." — Rumi**
 <!--QUOTE_END-->
 
 ---
