@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"You are not just the drop in the ocean. You are the mighty ocean in the drop." — Rumi**
+> **"It is a matter of shame that in the morning the birds should be awake earlier than you." — Abu Bakr (R.A)**
 <!--QUOTE_END-->
 
 ---
