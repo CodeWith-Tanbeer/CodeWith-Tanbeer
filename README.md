@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Sit with those who love Allah, for that enlightens the mind." — Umar ibn Al-Khattāb (R.A)**
+> **"If you even dream of beating me you'd better wake up and apologize." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
