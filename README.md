@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"If you even dream of beating me you'd better wake up and apologize." — Muhammad Ali**
+> **"It's lack of faith that makes people afraid of meeting challenges, and I believed in myself." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
