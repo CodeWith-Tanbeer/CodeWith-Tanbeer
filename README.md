@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Success Consists Of Going From Failure To Failure Without Loss Of Enthusiasm." — Winston Churchill**
+> **"Life is balance of holding on and letting go." — Rumi**
 <!--QUOTE_END-->
 
 ---
