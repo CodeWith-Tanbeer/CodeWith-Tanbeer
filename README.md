@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"It is a matter of shame that in the morning the birds should be awake earlier than you." — Abu Bakr (R.A)**
+> **"Fiction Is The Truth Inside The Lie." — Stephen King**
 <!--QUOTE_END-->
 
 ---
