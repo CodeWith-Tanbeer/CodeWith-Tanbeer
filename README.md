@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Fiction Is The Truth Inside The Lie." — Stephen King**
+> **"Success Consists Of Going From Failure To Failure Without Loss Of Enthusiasm." — Winston Churchill**
 <!--QUOTE_END-->
 
 ---
