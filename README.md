@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Life is balance of holding on and letting go." — Rumi**
+> **"The time has come to turn your heart into a temple of fire. Your essence is gold hidden in dust. To reveal its splendor you need to burn in the fire of love." — Rumi**
 <!--QUOTE_END-->
 
 ---
