@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The time has come to turn your heart into a temple of fire. Your essence is gold hidden in dust. To reveal its splendor you need to burn in the fire of love." — Rumi**
+> **"For great men, religion is a way of making friends; small people make religion a fighting tool." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
