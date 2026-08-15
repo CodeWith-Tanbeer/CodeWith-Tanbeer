@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Even If I Knew That Tomorrow The World Would Go To Pieces, I Would Still Plant My Apple Tree." — Martin Luther**
+> **"Your Most Unhappy Customers Are Your Greatest Source Of Learning." — Bill Gates**
 <!--QUOTE_END-->
 
 ---
