@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"For great men, religion is a way of making friends; small people make religion a fighting tool." — Abdul Kalam**
+> **"Force Always Attracts Men Of Low Morality." — Albert Einstein**
 <!--QUOTE_END-->
 
 ---
