@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Reader, Suppose You Were An Idiot. And Suppose You Were A Member Of Congress. But I Repeat Myself." — Mark Twain**
+> **"I Never Think Of The Future - It Comes Soon Enough." — Albert Einstein**
 <!--QUOTE_END-->
 
 ---
