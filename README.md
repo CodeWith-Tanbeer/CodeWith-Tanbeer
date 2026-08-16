@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Fear the sins that you commit in secret, because the Witness of those sins is the Judge Himself!" — Ali ibn Abi Talib (R.A)**
+> **"We'Re Getting Hurt, But I'M A Long-Term Investor." — Al Waleed Bin Talal**
 <!--QUOTE_END-->
 
 ---
