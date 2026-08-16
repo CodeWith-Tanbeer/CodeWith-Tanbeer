@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"We'Re Getting Hurt, But I'M A Long-Term Investor." — Al Waleed Bin Talal**
+> **"Reader, Suppose You Were An Idiot. And Suppose You Were A Member Of Congress. But I Repeat Myself." — Mark Twain**
 <!--QUOTE_END-->
 
 ---
