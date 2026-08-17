@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I Never Think Of The Future - It Comes Soon Enough." — Albert Einstein**
+> **"The Roots Of All Goodness Lie In The Soil Of Appreciation For Goodness." — Dalai Lama**
 <!--QUOTE_END-->
 
 ---
