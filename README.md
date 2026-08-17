@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I'm gonna whup whoever stole my bike!" — Muhammad Ali**
+> **"A girl is a good deed and a boy is a bounty. Good deeds are rewarded while people are held accountable for bounties." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
