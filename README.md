@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"You have to dream before your dreams can come true." — Abdul Kalam**
+> **"Try something different. Surrender." — Rumi**
 <!--QUOTE_END-->
 
 ---
