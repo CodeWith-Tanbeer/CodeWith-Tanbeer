@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Where there is ruin, there is hope for a treasure." — Rumi**
+> **"If We Really Want To Love We Must Learn How To Forgive." — Mother Teresa**
 <!--QUOTE_END-->
 
 ---
