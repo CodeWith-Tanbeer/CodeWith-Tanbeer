@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"If We Really Want To Love We Must Learn How To Forgive." — Mother Teresa**
+> **"You Don'T Have To See The Whole Staircase, Just Take The First Step." — Martin Luther King  Jr.**
 <!--QUOTE_END-->
 
 ---
