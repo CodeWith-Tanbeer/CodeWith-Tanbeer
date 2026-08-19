@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I Believe That Every Person Is Born With Talent." — Maya Angelou**
+> **"It is better to listen to a wise enemy than to seek counsel from a foolish friend." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
