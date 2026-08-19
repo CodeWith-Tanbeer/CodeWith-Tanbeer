@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"What you seek is seeking you." — Rumi**
+> **"I Believe That Every Person Is Born With Talent." — Maya Angelou**
 <!--QUOTE_END-->
 
 ---
