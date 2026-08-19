@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"It is better to listen to a wise enemy than to seek counsel from a foolish friend." — Ali ibn Abi Talib (R.A)**
+> **"Wherever You Go, Go With All Your Heart." — Confucius**
 <!--QUOTE_END-->
 
 ---
