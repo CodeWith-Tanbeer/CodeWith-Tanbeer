@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Buy The Ticket, Take The Ride." — Hunter S. Thompson**
+> **"Surely silence can sometimes be the most eloquent reply." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
