@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Surely silence can sometimes be the most eloquent reply." — Ali ibn Abi Talib (R.A)**
+> **"When I Look Into The Future, It'S So Bright It Burns My Eyes." — Oprah Winfrey**
 <!--QUOTE_END-->
 
 ---
