@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"When I Look Into The Future, It'S So Bright It Burns My Eyes." — Oprah Winfrey**
+> **"Every day, nay every moment, try to do some good deed." — Abu Bakr (R.A)**
 <!--QUOTE_END-->
 
 ---
