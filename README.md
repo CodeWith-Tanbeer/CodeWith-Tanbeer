@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Wherever You Go, Go With All Your Heart." — Confucius**
+> **"Buy The Ticket, Take The Ride." — Hunter S. Thompson**
 <!--QUOTE_END-->
 
 ---
