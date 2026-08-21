@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"It'S Fine To Celebrate Success But It Is More Important To Heed The Lessons Of Failure." — Bill Gates**
+> **"The art of knowing is knowing what to ignore." — Rumi**
 <!--QUOTE_END-->
 
 ---
