@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The art of knowing is knowing what to ignore." — Rumi**
+> **"The only limitations one has, are the ones they place on themselves." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
