@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Every day, nay every moment, try to do some good deed." — Abu Bakr (R.A)**
+> **"It'S Fine To Celebrate Success But It Is More Important To Heed The Lessons Of Failure." — Bill Gates**
 <!--QUOTE_END-->
 
 ---
