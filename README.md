@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The only limitations one has, are the ones they place on themselves." — Muhammad Ali**
+> **"The Way You See People Is The Way You Treat Them." — Zig Ziglar**
 <!--QUOTE_END-->
 
 ---
