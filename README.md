@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The Way You See People Is The Way You Treat Them." — Zig Ziglar**
+> **"To speak less is wisdom, to eat less is healthy, and to mingle less with te people is safe and serene." — Umar ibn Al-Khattāb (R.A)**
 <!--QUOTE_END-->
 
 ---
