@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"To speak less is wisdom, to eat less is healthy, and to mingle less with te people is safe and serene." — Umar ibn Al-Khattāb (R.A)**
+> **"Your worst enemy is hiding within yourself, and that enemy is your nafs or false ego." — Rumi**
 <!--QUOTE_END-->
 
 ---
