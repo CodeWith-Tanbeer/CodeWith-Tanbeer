@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Your worst enemy is hiding within yourself, and that enemy is your nafs or false ego." — Rumi**
+> **"Courage Is Resistance To Fear, Mastery Of Fear, Not Absence Of Fear." — Mark Twain**
 <!--QUOTE_END-->
 
 ---
