@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Once the Choice is Made, Do Not Look Back, Do Not Second-Guess Your Decisions." — Muhammad Ali**
+> **"Climbing to the top demands strength, whether it is to the top of Mount Everest or to the top of your career." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
