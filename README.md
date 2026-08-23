@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Your body is sacred. You're far more precious than diamonds and pearls, and you should be covered too." — Muhammad Ali**
+> **"Once the Choice is Made, Do Not Look Back, Do Not Second-Guess Your Decisions." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
