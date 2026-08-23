@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Climbing to the top demands strength, whether it is to the top of Mount Everest or to the top of your career." — Abdul Kalam**
+> **"Tell Me And I Forget. Teach Me And I Remember. Involve Me And I Learn." — Benjamin Franklin**
 <!--QUOTE_END-->
 
 ---
