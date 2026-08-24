@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Change Your Opinions, Keep To Your Principles; Change Your Leaves, Keep Intact Your Roots." — Victor Hugo**
+> **"Let not your love become attachment, nor your hate become destruction." — Umar ibn Al-Khattāb (R.A)**
 <!--QUOTE_END-->
 
 ---
