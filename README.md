@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The Most Beautiful Thing We Can Experience Is The Mysterious. It Is The Source Of All True Art And Science." — Albert Einstein**
+> **"Change Your Opinions, Keep To Your Principles; Change Your Leaves, Keep Intact Your Roots." — Victor Hugo**
 <!--QUOTE_END-->
 
 ---
