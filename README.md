@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"When the world pushes you to your knees, you're in the perfect position to pray." — Rumi**
+> **"The Most Beautiful Thing We Can Experience Is The Mysterious. It Is The Source Of All True Art And Science." — Albert Einstein**
 <!--QUOTE_END-->
 
 ---
