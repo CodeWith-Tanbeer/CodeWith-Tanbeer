@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Tell Me And I Forget. Teach Me And I Remember. Involve Me And I Learn." — Benjamin Franklin**
+> **"When the world pushes you to your knees, you're in the perfect position to pray." — Rumi**
 <!--QUOTE_END-->
 
 ---
