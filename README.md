@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"George Washington, As A Boy, Was Ignorant Of The Commonest Accomplishments Of Youth. He Could Not Even Lie." — Mark Twain**
+> **"Fiction Is The Truth Inside The Lie." — Stephen King**
 <!--QUOTE_END-->
 
 ---
