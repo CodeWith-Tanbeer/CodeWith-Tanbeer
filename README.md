@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"If you even dream of beating me you'd better wake up and apologize." — Muhammad Ali**
+> **"George Washington, As A Boy, Was Ignorant Of The Commonest Accomplishments Of Youth. He Could Not Even Lie." — Mark Twain**
 <!--QUOTE_END-->
 
 ---
