@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Fiction Is The Truth Inside The Lie." — Stephen King**
+> **"There Is No Labor A Person Does That Is Undignified; If They Do It Right." — Bill Cosby**
 <!--QUOTE_END-->
 
 ---
