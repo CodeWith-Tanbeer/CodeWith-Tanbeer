@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Let not your love become attachment, nor your hate become destruction." — Umar ibn Al-Khattāb (R.A)**
+> **"If you even dream of beating me you'd better wake up and apologize." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
