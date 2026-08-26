@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I Used To Think The Worst Thing In Life Was To End Up All Alone. It'S Not. The Worst Thing In Life Is To End Up With People Who Make You Feel All Alone." — Robin Williams**
+> **"Preserve the sayings of those people who are indifferent to the world. They say only that what Allah wishes them to say." — Umar ibn Al-Khattāb (R.A)**
 <!--QUOTE_END-->
 
 ---
