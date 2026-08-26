@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"There Is No Labor A Person Does That Is Undignified; If They Do It Right." — Bill Cosby**
+> **"Man Is Descended From A Hairy, Tailed Quadruped, Probably Arboreal In Its Habits." — Charles Darwin**
 <!--QUOTE_END-->
 
 ---
