@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Man Is Descended From A Hairy, Tailed Quadruped, Probably Arboreal In Its Habits." — Charles Darwin**
+> **"I Used To Think The Worst Thing In Life Was To End Up All Alone. It'S Not. The Worst Thing In Life Is To End Up With People Who Make You Feel All Alone." — Robin Williams**
 <!--QUOTE_END-->
 
 ---
