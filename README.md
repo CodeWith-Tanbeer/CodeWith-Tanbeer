@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Follow the way of life, which the Holy Prophet has shown you, for verily that is the right path." — Abu Bakr (R.A)**
+> **"The true believer is rewarded in every thing, even in affliction." — Abu Bakr (R.A)**
 <!--QUOTE_END-->
 
 ---
