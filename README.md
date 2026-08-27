@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The true believer is rewarded in every thing, even in affliction." — Abu Bakr (R.A)**
+> **"In the silence of LOVE you will find the Spark of LIFE." — Rumi**
 <!--QUOTE_END-->
 
 ---
