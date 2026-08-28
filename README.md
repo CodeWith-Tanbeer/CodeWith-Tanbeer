@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"In the silence of LOVE you will find the Spark of LIFE." — Rumi**
+> **"If all you can do is crawl, start crawling." — Rumi**
 <!--QUOTE_END-->
 
 ---
