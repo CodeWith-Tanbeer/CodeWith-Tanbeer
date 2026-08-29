@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Allah's the Arabic term for God. Stand up for God, fight for God, work for God and do the right thing, and go the right way, things will end up in your corner." — Muhammad Ali**
+> **"All Great Achievements Require Time." — Maya Angelou**
 <!--QUOTE_END-->
 
 ---
