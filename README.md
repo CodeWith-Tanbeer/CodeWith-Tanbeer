@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I Guess I Don'T So Much Mind Being Old, As I Mind Being Fat And Old." — Benjamin Franklin**
+> **"We Are What We Believe We Are." — C. S. Lewis**
 <!--QUOTE_END-->
 
 ---
