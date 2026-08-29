@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"All Great Achievements Require Time." — Maya Angelou**
+> **"I Guess I Don'T So Much Mind Being Old, As I Mind Being Fat And Old." — Benjamin Franklin**
 <!--QUOTE_END-->
 
 ---
