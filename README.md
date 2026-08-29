@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"We Are What We Believe We Are." — C. S. Lewis**
+> **"I'll destroy you. I am the master of disaster." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
