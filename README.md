@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Religions have different names, and they all contain truth, expressed in different ways forms and times." — Muhammad Ali**
+> **"Light up the fire of love inside and blaze the thoughts away." — Rumi**
 <!--QUOTE_END-->
 
 ---
