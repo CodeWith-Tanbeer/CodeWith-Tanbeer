@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Greed is permanent slavery." — Ali ibn Abi Talib (R.A)**
+> **"An alert and learned man will take advice from any event." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
