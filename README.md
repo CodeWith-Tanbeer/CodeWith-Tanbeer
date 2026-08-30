@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I'll destroy you. I am the master of disaster." — Muhammad Ali**
+> **"Religions have different names, and they all contain truth, expressed in different ways forms and times." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
