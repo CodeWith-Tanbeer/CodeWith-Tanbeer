@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Acquire knowledge before you become leaders and pride prevents you from learning and you live in ignorance." — Umar ibn Al-Khattāb (R.A)**
+> **"Eating Words Has Never Given Me Indigestion." — Winston Churchill**
 <!--QUOTE_END-->
 
 ---
