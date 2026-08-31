@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"An alert and learned man will take advice from any event." — Ali ibn Abi Talib (R.A)**
+> **"Acquire knowledge before you become leaders and pride prevents you from learning and you live in ignorance." — Umar ibn Al-Khattāb (R.A)**
 <!--QUOTE_END-->
 
 ---
