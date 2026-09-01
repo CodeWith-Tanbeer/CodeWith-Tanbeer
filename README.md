@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Once You Replace Negative Thoughts With Positive Ones, You'Ll Start Having Positive Results." — Willie Nelson**
+> **"You Don'T Have To See The Whole Staircase, Just Take The First Step." — Martin Luther King  Jr.**
 <!--QUOTE_END-->
 
 ---
