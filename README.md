@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I Cannot Discover That Anyone Knows Enough To Say Definitely What Is And What Is Not Possible." — Henry Ford**
+> **"If You'Re Going To Be Crazy, You Have To Get Paid For It Or Else You'Re Going To Be Locked Up." — Hunter S. Thompson**
 <!--QUOTE_END-->
 
 ---
