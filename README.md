@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"You Don'T Have To See The Whole Staircase, Just Take The First Step." — Martin Luther King  Jr.**
+> **"I Cannot Discover That Anyone Knows Enough To Say Definitely What Is And What Is Not Possible." — Henry Ford**
 <!--QUOTE_END-->
 
 ---
