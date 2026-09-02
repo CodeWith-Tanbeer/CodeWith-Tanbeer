@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I Myself Prefer My New Zealand Eggs For Breakfast." — Elizabeth II**
+> **"A Well-Spent Day Brings Happy Sleep." — Leonardo Da Vinci**
 <!--QUOTE_END-->
 
 ---
