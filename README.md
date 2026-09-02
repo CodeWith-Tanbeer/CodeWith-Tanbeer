@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The government, whether state or central, is elected. That means we have a responsibility to elect the right kind of leaders." — Abdul Kalam**
+> **"Your heart is the size of an ocean. Go find yourself in its hidden depths." — Rumi**
 <!--QUOTE_END-->
 
 ---
