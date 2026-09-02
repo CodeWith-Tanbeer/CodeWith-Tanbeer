@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Your heart is the size of an ocean. Go find yourself in its hidden depths." — Rumi**
+> **"I Myself Prefer My New Zealand Eggs For Breakfast." — Elizabeth II**
 <!--QUOTE_END-->
 
 ---
