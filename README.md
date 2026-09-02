@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"If You'Re Going To Be Crazy, You Have To Get Paid For It Or Else You'Re Going To Be Locked Up." — Hunter S. Thompson**
+> **"The government, whether state or central, is elected. That means we have a responsibility to elect the right kind of leaders." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
