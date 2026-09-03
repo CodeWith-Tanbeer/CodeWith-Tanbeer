@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"There are three signs of a knowledgeable person: knowledge, forbearance and silence." — Ali ibn Abi Talib (R.A)**
+> **"India has to be transformed into a developed nation, a prosperous nation and a healthy nation, with a value system." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
