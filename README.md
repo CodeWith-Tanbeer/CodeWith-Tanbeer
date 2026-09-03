@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"A Well-Spent Day Brings Happy Sleep." — Leonardo Da Vinci**
+> **"Whenever you are alone, remind yourself that God has sent everyone else away so that there is only you and Him." — Rumi**
 <!--QUOTE_END-->
 
 ---
