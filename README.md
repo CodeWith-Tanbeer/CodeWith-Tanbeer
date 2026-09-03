@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"India has to be transformed into a developed nation, a prosperous nation and a healthy nation, with a value system." — Abdul Kalam**
+> **"Never Worry About Numbers. Help One Person At A Time And Always Start With The Person Nearest You." — Mother Teresa**
 <!--QUOTE_END-->
 
 ---
