@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Whenever you are alone, remind yourself that God has sent everyone else away so that there is only you and Him." — Rumi**
+> **"There are three signs of a knowledgeable person: knowledge, forbearance and silence." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
