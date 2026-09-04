@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Never Worry About Numbers. Help One Person At A Time And Always Start With The Person Nearest You." — Mother Teresa**
+> **"I Do Not Think Much Of A Man Who Is Not Wiser Today Than He Was Yesterday." — Abraham Lincoln**
 <!--QUOTE_END-->
 
 ---
