@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"If That'S There, I Believe That Technology Will Probably Step Up To Their Part Of It." — Neil Armstrong**
+> **"Never Put Off Till Tomorrow What You Can Do The Day After Tomorrow." — Mark Twain**
 <!--QUOTE_END-->
 
 ---
