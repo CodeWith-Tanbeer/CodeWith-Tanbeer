@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I Do Not Think Much Of A Man Who Is Not Wiser Today Than He Was Yesterday." — Abraham Lincoln**
+> **"If That'S There, I Believe That Technology Will Probably Step Up To Their Part Of It." — Neil Armstrong**
 <!--QUOTE_END-->
 
 ---
