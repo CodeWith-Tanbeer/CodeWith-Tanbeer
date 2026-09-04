@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Never Put Off Till Tomorrow What You Can Do The Day After Tomorrow." — Mark Twain**
+> **"Thunder Is Good, Thunder Is Impressive; But It Is Lightning That Does The Work." — Mark Twain**
 <!--QUOTE_END-->
 
 ---
