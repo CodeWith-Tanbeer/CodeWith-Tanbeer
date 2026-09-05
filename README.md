@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"He who is greedy is disgraced; he who discloses his hardship will always be humiliated; he who has no control over his tongue will often have to face discomfort." — Ali ibn Abi Talib (R.A)**
+> **"O man you are busy working for the world, and the world is busy trying to turn you out." — Abu Bakr (R.A)**
 <!--QUOTE_END-->
 
 ---
