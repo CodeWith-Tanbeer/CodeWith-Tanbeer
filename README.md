@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"O man you are busy working for the world, and the world is busy trying to turn you out." — Abu Bakr (R.A)**
+> **"Denial Ain'T Just A River In Egypt." — Mark Twain**
 <!--QUOTE_END-->
 
 ---
