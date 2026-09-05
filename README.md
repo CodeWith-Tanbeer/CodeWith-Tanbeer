@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Thunder Is Good, Thunder Is Impressive; But It Is Lightning That Does The Work." — Mark Twain**
+> **"He who is greedy is disgraced; he who discloses his hardship will always be humiliated; he who has no control over his tongue will often have to face discomfort." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
