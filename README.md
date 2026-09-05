@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Denial Ain'T Just A River In Egypt." — Mark Twain**
+> **"Silence gives answers." — Rumi**
 <!--QUOTE_END-->
 
 ---
