@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"What comes, will go. What is found, will be lost again. But what you are is beyond coming and going and beyond description." — Rumi**
+> **"When you do things from your soul, you feel a river moving in you, a joy." — Rumi**
 <!--QUOTE_END-->
 
 ---
