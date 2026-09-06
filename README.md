@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Silence gives answers." — Rumi**
+> **"A Good Head And A Good Heart Are Always A Formidable Combination." — Nelson Mandela**
 <!--QUOTE_END-->
 
 ---
