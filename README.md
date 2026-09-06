@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"A Good Head And A Good Heart Are Always A Formidable Combination." — Nelson Mandela**
+> **"In All Things Of Nature There Is Something Of The Marvelous." — Aristotle**
 <!--QUOTE_END-->
 
 ---
