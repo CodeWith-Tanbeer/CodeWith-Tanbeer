@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"He Who Learns But Does Not Think, Is Lost. He Who Thinks But Does Not Learn Is In Great Danger." — Confucius**
+> **"When setting out on a journey do not seek advice from someone who never left home." — Rumi**
 <!--QUOTE_END-->
 
 ---
