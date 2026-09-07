@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The World We Have Created Is A Product Of Our Thinking." — Albert Einstein**
+> **"He Who Learns But Does Not Think, Is Lost. He Who Thinks But Does Not Learn Is In Great Danger." — Confucius**
 <!--QUOTE_END-->
 
 ---
