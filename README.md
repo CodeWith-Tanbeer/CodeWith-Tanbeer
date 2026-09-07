@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"When you do things from your soul, you feel a river moving in you, a joy." — Rumi**
+> **"The Miracle Is Not That We Do This Work, But That We Are Happy To Do It." — Mother Teresa**
 <!--QUOTE_END-->
 
 ---
