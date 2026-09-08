@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I Like My Wine Like My Women - Ready To Pass Out." — Robin Williams**
+> **"The people who abandon Jihad fall a victim to humility and degradation." — Abu Bakr (R.A)**
 <!--QUOTE_END-->
 
 ---
