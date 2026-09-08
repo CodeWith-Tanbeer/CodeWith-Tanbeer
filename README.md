@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Jihad is obligatory for the Muslims." — Abu Bakr (R.A)**
+> **"Only last week I murdered a rock, injured a stone and hospitalized a brick." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
