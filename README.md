@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"When setting out on a journey do not seek advice from someone who never left home." — Rumi**
+> **"I Like My Wine Like My Women - Ready To Pass Out." — Robin Williams**
 <!--QUOTE_END-->
 
 ---
