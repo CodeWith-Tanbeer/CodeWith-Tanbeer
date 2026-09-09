@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Only last week I murdered a rock, injured a stone and hospitalized a brick." — Muhammad Ali**
+> **"Don't sit and wait. Get out there, feel life. Touch the sun, and immerse in the sea." — Rumi**
 <!--QUOTE_END-->
 
 ---
