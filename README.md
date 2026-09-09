@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"God gave me Parkinson's syndrome to show me I'm not 'The Greatest' - he is." — Muhammad Ali**
+> **"I Don'T Believe In Failure. It Is Not Failure If You Enjoyed The Process." — Oprah Winfrey**
 <!--QUOTE_END-->
 
 ---
