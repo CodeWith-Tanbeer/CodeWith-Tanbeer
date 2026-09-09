@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I Don'T Believe In Failure. It Is Not Failure If You Enjoyed The Process." — Oprah Winfrey**
+> **"Youth is not restored by the dyeing of your hair." — Abu Bakr (R.A)**
 <!--QUOTE_END-->
 
 ---
