@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Don't sit and wait. Get out there, feel life. Touch the sun, and immerse in the sea." — Rumi**
+> **"God gave me Parkinson's syndrome to show me I'm not 'The Greatest' - he is." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
