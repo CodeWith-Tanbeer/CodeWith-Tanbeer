@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"To Give Victory To The Right, Not Bloody Bullets, But Peaceful Ballots Only, Are Necessary." — Abraham Lincoln**
+> **"You're not going to enjoy every minute of the journey, but the success you'll find at the end will make it all worth it." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
