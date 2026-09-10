@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Youth is not restored by the dyeing of your hair." — Abu Bakr (R.A)**
+> **"To Give Victory To The Right, Not Bloody Bullets, But Peaceful Ballots Only, Are Necessary." — Abraham Lincoln**
 <!--QUOTE_END-->
 
 ---
