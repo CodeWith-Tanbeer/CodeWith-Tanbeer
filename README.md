@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"You're not going to enjoy every minute of the journey, but the success you'll find at the end will make it all worth it." — Muhammad Ali**
+> **"Preserve the sayings of those people who are indifferent to the world. They say only that what Allah wishes them to say." — Umar ibn Al-Khattāb (R.A)**
 <!--QUOTE_END-->
 
 ---
