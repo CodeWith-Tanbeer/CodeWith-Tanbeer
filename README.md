@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Preserve the sayings of those people who are indifferent to the world. They say only that what Allah wishes them to say." — Umar ibn Al-Khattāb (R.A)**
+> **"Whoever Is Happy Will Make Others Happy Too." — Anne Frank**
 <!--QUOTE_END-->
 
 ---
