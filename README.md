@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Whoever Is Happy Will Make Others Happy Too." — Anne Frank**
+> **"Maybe a thing that you do not like is really in your interest. It is possible that a thing that you may desire may be against your interest." — Abu Bakr (R.A)**
 <!--QUOTE_END-->
 
 ---
