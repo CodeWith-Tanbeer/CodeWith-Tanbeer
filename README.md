@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The Best Way To Know God Is To Love Many Things." — Vincent Van Gogh**
+> **"To the people that have said I'm too small, I'm not fast enough, I don't have what it takes, I'm not strong enough. THANK YOU." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
