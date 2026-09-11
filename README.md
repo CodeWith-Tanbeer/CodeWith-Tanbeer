@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Maybe a thing that you do not like is really in your interest. It is possible that a thing that you may desire may be against your interest." — Abu Bakr (R.A)**
+> **"The Best Way To Know God Is To Love Many Things." — Vincent Van Gogh**
 <!--QUOTE_END-->
 
 ---
