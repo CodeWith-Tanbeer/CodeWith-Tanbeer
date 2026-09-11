@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"To the people that have said I'm too small, I'm not fast enough, I don't have what it takes, I'm not strong enough. THANK YOU." — Muhammad Ali**
+> **"Anger Is Never Without A Reason, But Seldom With A Good One." — Benjamin Franklin**
 <!--QUOTE_END-->
 
 ---
