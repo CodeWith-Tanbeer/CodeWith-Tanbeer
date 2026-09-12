@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Even If I Knew That Tomorrow The World Would Go To Pieces, I Would Still Plant My Apple Tree." — Martin Luther**
+> **"On every dishonest man, there are two watchmen, his possessions, and his way of living." — Umar ibn Al-Khattāb (R.A)**
 <!--QUOTE_END-->
 
 ---
