@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"On every dishonest man, there are two watchmen, his possessions, and his way of living." — Umar ibn Al-Khattāb (R.A)**
+> **"You Know You Are On The Road To Success If You Would Do Your Job, And Not Be Paid For It." — Oprah Winfrey**
 <!--QUOTE_END-->
 
 ---
