@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"You Know You Are On The Road To Success If You Would Do Your Job, And Not Be Paid For It." — Oprah Winfrey**
+> **"If We Really Want To Love We Must Learn How To Forgive." — Mother Teresa**
 <!--QUOTE_END-->
 
 ---
