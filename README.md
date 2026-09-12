@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Anger Is Never Without A Reason, But Seldom With A Good One." — Benjamin Franklin**
+> **"Even If I Knew That Tomorrow The World Would Go To Pieces, I Would Still Plant My Apple Tree." — Martin Luther**
 <!--QUOTE_END-->
 
 ---
