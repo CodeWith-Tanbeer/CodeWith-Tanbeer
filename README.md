@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Nothing Good Ever Comes Of Violence." — Martin Luther**
+> **"Life Doesn'T Run Away From Nobody. Life Runs At People." — Joe Frazier**
 <!--QUOTE_END-->
 
 ---
