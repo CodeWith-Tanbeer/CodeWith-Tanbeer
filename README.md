@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Life Doesn'T Run Away From Nobody. Life Runs At People." — Joe Frazier**
+> **"Do not be an arrogant scholar, for scholarship cannot subsist with arrogance." — Umar ibn Al-Khattāb (R.A)**
 <!--QUOTE_END-->
 
 ---
