@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Intellectuals Solve Problems, Geniuses Prevent Them." — Albert Einstein**
+> **"Nothing Good Ever Comes Of Violence." — Martin Luther**
 <!--QUOTE_END-->
 
 ---
