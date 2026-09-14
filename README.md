@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Loyalty To The Country Always. Loyalty To The Government When It Deserves It." — Mark Twain**
+> **"The cure for pain is in the pain." — Rumi**
 <!--QUOTE_END-->
 
 ---
