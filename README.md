@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Why are you so enchanted by this world, when a mine of gold lies within you?" — Rumi**
+> **"Loyalty To The Country Always. Loyalty To The Government When It Deserves It." — Mark Twain**
 <!--QUOTE_END-->
 
 ---
