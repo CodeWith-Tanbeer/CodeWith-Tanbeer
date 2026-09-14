@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Do not be an arrogant scholar, for scholarship cannot subsist with arrogance." — Umar ibn Al-Khattāb (R.A)**
+> **"Why are you so enchanted by this world, when a mine of gold lies within you?" — Rumi**
 <!--QUOTE_END-->
 
 ---
