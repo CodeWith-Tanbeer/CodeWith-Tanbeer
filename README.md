@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"When you do not know of a thing say so plainly." — Umar ibn Al-Khattāb (R.A)**
+> **"Sell your cleverness and buy bewilderment." — Rumi**
 <!--QUOTE_END-->
 
 ---
