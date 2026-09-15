@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The world is darkness; knowledge is light; but knowledge without truth is a mere shadow." — Ali ibn Abi Talib (R.A)**
+> **"If We Really Want To Love We Must Learn How To Forgive." — Mother Teresa**
 <!--QUOTE_END-->
 
 ---
