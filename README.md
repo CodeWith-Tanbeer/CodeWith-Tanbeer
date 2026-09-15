@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Sell your cleverness and buy bewilderment." — Rumi**
+> **"The world is darkness; knowledge is light; but knowledge without truth is a mere shadow." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
