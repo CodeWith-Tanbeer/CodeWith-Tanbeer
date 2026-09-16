@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Eating Words Has Never Given Me Indigestion." — Winston Churchill**
+> **"What you seek is seeking you." — Rumi**
 <!--QUOTE_END-->
 
 ---
