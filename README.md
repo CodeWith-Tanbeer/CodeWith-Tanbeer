@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"What you seek is seeking you." — Rumi**
+> **"I say get an education. Become an electrician, a mechanic, a doctor, a lawyer, anything but a fighter. In this trade, it's the managers that make the money and last the longest." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
