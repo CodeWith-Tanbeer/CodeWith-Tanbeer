@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"If We Really Want To Love We Must Learn How To Forgive." — Mother Teresa**
+> **"Eating Words Has Never Given Me Indigestion." — Winston Churchill**
 <!--QUOTE_END-->
 
 ---
