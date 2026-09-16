@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I say get an education. Become an electrician, a mechanic, a doctor, a lawyer, anything but a fighter. In this trade, it's the managers that make the money and last the longest." — Muhammad Ali**
+> **"O man you are busy working for the world, and the world is busy trying to turn you out." — Abu Bakr (R.A)**
 <!--QUOTE_END-->
 
 ---
