@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Character May Almost Be Called The Most Effective Means Of Persuasion." — Aristotle**
+> **"Far And Away The Best Prize That Life Has To Offer Is The Chance To Work Hard At Work Worth Doing." — Theodore Roosevelt**
 <!--QUOTE_END-->
 
 ---
