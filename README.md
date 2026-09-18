@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Only Buy Something That You'D Be Perfectly Happy To Hold If The Market Shut Down For 10 Years." — Warren Buffett**
+> **"Its good to leave each day behind, like flowing water, free of sadness. Yesterday is gone and its tale told. Today new seeds are growing." — Rumi**
 <!--QUOTE_END-->
 
 ---
