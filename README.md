@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Its good to leave each day behind, like flowing water, free of sadness. Yesterday is gone and its tale told. Today new seeds are growing." — Rumi**
+> **"Character May Almost Be Called The Most Effective Means Of Persuasion." — Aristotle**
 <!--QUOTE_END-->
 
 ---
