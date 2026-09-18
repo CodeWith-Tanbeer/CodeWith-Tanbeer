@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Far And Away The Best Prize That Life Has To Offer Is The Chance To Work Hard At Work Worth Doing." — Theodore Roosevelt**
+> **"What is the secret of success? Right decisions. How do you make right decisions? Experience. How do you gain experience? Wrong decisions." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
