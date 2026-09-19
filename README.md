@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"If you only say one prayer in a day make it Thank You." — Rumi**
+> **"Things Should Be Made As Simple As Possible, But Not Any Simpler." — Albert Einstein**
 <!--QUOTE_END-->
 
 ---
