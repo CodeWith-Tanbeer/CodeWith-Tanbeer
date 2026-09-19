@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Follow the way of life, which the Holy Prophet has shown you, for verily that is the right path." — Abu Bakr (R.A)**
+> **"If you only say one prayer in a day make it Thank You." — Rumi**
 <!--QUOTE_END-->
 
 ---
