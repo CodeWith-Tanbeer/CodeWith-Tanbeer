@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The greatest truth is honesty, and the greatest falsehood is dishonesty." — Abu Bakr (R.A)**
+> **"Follow the way of life, which the Holy Prophet has shown you, for verily that is the right path." — Abu Bakr (R.A)**
 <!--QUOTE_END-->
 
 ---
