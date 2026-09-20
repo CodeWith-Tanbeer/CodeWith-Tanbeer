@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"O! Let Me Not Be Mad, Not Mad, Sweet Heaven; Keep Me In Temper; I Would Not Be Mad!" — William Shakespeare**
+> **"Close your eyes, fall in Love, stay there." — Rumi**
 <!--QUOTE_END-->
 
 ---
