@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Close your eyes, fall in Love, stay there." — Rumi**
+> **"The most helpless person is the one who is helpless in reforming himself." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
