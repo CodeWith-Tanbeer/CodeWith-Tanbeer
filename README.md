@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Let Every Eye Negotiate For Itself And Trust No Agent." — William Shakespeare**
+> **"O! Let Me Not Be Mad, Not Mad, Sweet Heaven; Keep Me In Temper; I Would Not Be Mad!" — William Shakespeare**
 <!--QUOTE_END-->
 
 ---
