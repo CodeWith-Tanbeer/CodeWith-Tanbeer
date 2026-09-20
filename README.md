@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Things Should Be Made As Simple As Possible, But Not Any Simpler." — Albert Einstein**
+> **"Let Every Eye Negotiate For Itself And Trust No Agent." — William Shakespeare**
 <!--QUOTE_END-->
 
 ---
