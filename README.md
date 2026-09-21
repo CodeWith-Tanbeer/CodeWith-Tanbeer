@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Many a spoken word is more piercing than an attack." — Ali ibn Abi Talib (R.A)**
+> **"A True friend is one who sees a fault, gives you advice and who defends you in your absence." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
