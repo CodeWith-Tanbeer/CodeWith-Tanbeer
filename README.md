@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Innovation Distinguishes Between A Leader And A Follower." — Steve Jobs**
+> **"In Modern War... You Will Die Like A Dog For No Good Reason." — Ernest Hemingway**
 <!--QUOTE_END-->
 
 ---
