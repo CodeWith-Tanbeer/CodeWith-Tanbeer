@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The most helpless person is the one who is helpless in reforming himself." — Ali ibn Abi Talib (R.A)**
+> **"Innovation Distinguishes Between A Leader And A Follower." — Steve Jobs**
 <!--QUOTE_END-->
 
 ---
