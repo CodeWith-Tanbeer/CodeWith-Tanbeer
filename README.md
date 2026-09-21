@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"In Modern War... You Will Die Like A Dog For No Good Reason." — Ernest Hemingway**
+> **"Many a spoken word is more piercing than an attack." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
