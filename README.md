@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Allah Will Help Him Who Moves In The Way Of Allah." — Abu Bakr**
+> **"If you even dream of beating me you'd better wake up and apologize." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
