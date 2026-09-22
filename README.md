@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I'm pretty as a girl." — Muhammad Ali**
+> **"Allah Will Help Him Who Moves In The Way Of Allah." — Abu Bakr**
 <!--QUOTE_END-->
 
 ---
