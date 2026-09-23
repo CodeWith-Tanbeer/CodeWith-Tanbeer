@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I Don'T Know The Key To Success, But The Key To Failure Is Trying To Please Everybody." — Bill Cosby**
+> **"What Would Be Ugly In A Garden Constitutes Beauty In A Mountain." — Victor Hugo**
 <!--QUOTE_END-->
 
 ---
