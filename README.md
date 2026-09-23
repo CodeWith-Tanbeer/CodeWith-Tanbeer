@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"What Would Be Ugly In A Garden Constitutes Beauty In A Mountain." — Victor Hugo**
+> **"Man Is Descended From A Hairy, Tailed Quadruped, Probably Arboreal In Its Habits." — Charles Darwin**
 <!--QUOTE_END-->
 
 ---
