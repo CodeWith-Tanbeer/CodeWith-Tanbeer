@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"He who aspires to paradise should learn to deal with people with kindness." — Abu Bakr (R.A)**
+> **"We are born of love. Love is our mother." — Rumi**
 <!--QUOTE_END-->
 
 ---
