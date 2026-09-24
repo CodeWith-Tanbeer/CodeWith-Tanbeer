@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Being Ignorant Is Not So Much A Shame, As Being Unwilling To Learn." — Benjamin Franklin**
+> **"Vision Without Power Does Bring Moral Elevation But Cannot Give A Lasting Culture." — Muhammad Iqbal**
 <!--QUOTE_END-->
 
 ---
