@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"We are born of love. Love is our mother." — Rumi**
+> **"Being Ignorant Is Not So Much A Shame, As Being Unwilling To Learn." — Benjamin Franklin**
 <!--QUOTE_END-->
 
 ---
