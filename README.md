@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Close your eyes, fall in Love, stay there." — Rumi**
+> **"If you love someone, you are always joined with them - in joy, in absence, in solitude, in strife." — Rumi**
 <!--QUOTE_END-->
 
 ---
