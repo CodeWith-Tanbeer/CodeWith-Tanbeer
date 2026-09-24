@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Vision Without Power Does Bring Moral Elevation But Cannot Give A Lasting Culture." — Muhammad Iqbal**
+> **"Close your eyes, fall in Love, stay there." — Rumi**
 <!--QUOTE_END-->
 
 ---
