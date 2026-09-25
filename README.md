@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I want to sing like the birds sing, not worrying about who hears or what they think." — Rumi**
+> **"Our Greatest Weakness Lies In Giving Up. The Most Certain Way To Succeed Is Always To Try Just One More Time." — Thomas A. Edison**
 <!--QUOTE_END-->
 
 ---
