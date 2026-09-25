@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I Don'T Like That Man. I Must Get To Know Him Better." — Abraham Lincoln**
+> **"I want to sing like the birds sing, not worrying about who hears or what they think." — Rumi**
 <!--QUOTE_END-->
 
 ---
