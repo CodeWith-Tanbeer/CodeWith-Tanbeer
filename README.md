@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"In Order To Exist Just Once In The World, It Is Necessary Never Again To Exist." — Albert Camus**
+> **"The more knowledge you have, the greater will be your fear of Allah." — Abu Bakr (R.A)**
 <!--QUOTE_END-->
 
 ---
