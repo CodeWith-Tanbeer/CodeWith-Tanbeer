@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Our Greatest Weakness Lies In Giving Up. The Most Certain Way To Succeed Is Always To Try Just One More Time." — Thomas A. Edison**
+> **"In Order To Exist Just Once In The World, It Is Necessary Never Again To Exist." — Albert Camus**
 <!--QUOTE_END-->
 
 ---
