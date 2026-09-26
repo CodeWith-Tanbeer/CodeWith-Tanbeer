@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"When Everything Seems To Be Going Against You, Remember That The Airplane Takes Off Against The Wind, Not With It." — Henry Ford**
+> **"Put yourself out on a limb, sucka, like me!" — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
