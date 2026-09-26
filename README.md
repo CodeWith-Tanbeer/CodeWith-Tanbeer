@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The more knowledge you have, the greater will be your fear of Allah." — Abu Bakr (R.A)**
+> **"When Everything Seems To Be Going Against You, Remember That The Airplane Takes Off Against The Wind, Not With It." — Henry Ford**
 <!--QUOTE_END-->
 
 ---
