@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Words are a pretext. It is the inner bond that draws one person to another, not words." — Rumi**
+> **"The Trouble With Censors Is That They Worry If A Girl Has Cleavage. They Ought To Worry If She Hasn'T Any." — Marilyn Monroe**
 <!--QUOTE_END-->
 
 ---
