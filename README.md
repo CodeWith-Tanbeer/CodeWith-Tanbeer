@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Put yourself out on a limb, sucka, like me!" — Muhammad Ali**
+> **"The Hunger For Love Is Much More Difficult To Remove Than The Hunger For Bread." — Mother Teresa**
 <!--QUOTE_END-->
 
 ---
