@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The Hunger For Love Is Much More Difficult To Remove Than The Hunger For Bread." — Mother Teresa**
+> **"Words are a pretext. It is the inner bond that draws one person to another, not words." — Rumi**
 <!--QUOTE_END-->
 
 ---
