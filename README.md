@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I belong to no religion. My religion is love. Every heart is my temple." — Rumi**
+> **"Boys, You Must Strive To Find Your Own Voice, Because The Longer You Wait To Begin The Less Likely You Are To Find It At All." — Robin Williams**
 <!--QUOTE_END-->
 
 ---
