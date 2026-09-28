@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Whenever you are alone, remind yourself that God has sent everyone else away so that there is only you and Him." — Rumi**
+> **"I belong to no religion. My religion is love. Every heart is my temple." — Rumi**
 <!--QUOTE_END-->
 
 ---
