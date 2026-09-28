@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Boys, You Must Strive To Find Your Own Voice, Because The Longer You Wait To Begin The Less Likely You Are To Find It At All." — Robin Williams**
+> **"A Man Should Never Neglect His Family For Business." — Walt Disney**
 <!--QUOTE_END-->
 
 ---
