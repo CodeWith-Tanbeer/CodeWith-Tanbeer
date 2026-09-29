@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Imagination Is More Important Than Knowledge. Knowledge Is Limited. Imagination Encircles The World." — Albert Einstein**
+> **"Woman Was God'S Second Mistake." — Friedrich Nietzsche**
 <!--QUOTE_END-->
 
 ---
