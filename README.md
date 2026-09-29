@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Let Every Eye Negotiate For Itself And Trust No Agent." — William Shakespeare**
+> **"Imagination Is More Important Than Knowledge. Knowledge Is Limited. Imagination Encircles The World." — Albert Einstein**
 <!--QUOTE_END-->
 
 ---
