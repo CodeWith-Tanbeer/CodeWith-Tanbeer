@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Your light is more magnificent than sunrise or sunset." — Rumi**
+> **"Let Every Eye Negotiate For Itself And Trust No Agent." — William Shakespeare**
 <!--QUOTE_END-->
 
 ---
