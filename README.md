@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"One lesson that every nation can learn from China is to focus more on creating village-level enterprises, quality health services and educational facilities." — Abdul Kalam**
+> **"Silence is golden when you can't think of a good answer." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
