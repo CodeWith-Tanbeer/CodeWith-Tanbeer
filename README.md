@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Silence is golden when you can't think of a good answer." — Muhammad Ali**
+> **"He That Displays Too Often His Wife And His Wallet Is In Danger Of Having Both Of Them Borrowed." — Benjamin Franklin**
 <!--QUOTE_END-->
 
 ---
