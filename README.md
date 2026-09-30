@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Woman Was God'S Second Mistake." — Friedrich Nietzsche**
+> **"We'Re Getting Hurt, But I'M A Long-Term Investor." — Al Waleed Bin Talal**
 <!--QUOTE_END-->
 
 ---
