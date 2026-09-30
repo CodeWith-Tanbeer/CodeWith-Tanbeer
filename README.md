@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"We'Re Getting Hurt, But I'M A Long-Term Investor." — Al Waleed Bin Talal**
+> **"One lesson that every nation can learn from China is to focus more on creating village-level enterprises, quality health services and educational facilities." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
