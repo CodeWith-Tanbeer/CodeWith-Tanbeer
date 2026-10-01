@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"A Goal Properly Set Is Halfway Reached." — Zig Ziglar**
+> **"The Dog Is A Gentleman; I Hope To Go To His Heaven Not Man'S." — Mark Twain**
 <!--QUOTE_END-->
 
 ---
