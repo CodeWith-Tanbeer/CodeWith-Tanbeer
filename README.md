@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"He That Displays Too Often His Wife And His Wallet Is In Danger Of Having Both Of Them Borrowed." — Benjamin Franklin**
+> **"A Goal Properly Set Is Halfway Reached." — Zig Ziglar**
 <!--QUOTE_END-->
 
 ---
