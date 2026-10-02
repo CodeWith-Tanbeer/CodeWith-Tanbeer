@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Give Me Six Hours To Chop Down A Tree And I Will Spend The First Four Sharpening The Axe." — Abraham Lincoln**
+> **"Man comes from a drop of semen and leaves as a piece of dust. He doesn't know when he came and he doesn't know when he's leaving, yet he walks on the earth thinking he knows everything." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
