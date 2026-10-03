@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Human Beings Are The Only Creatures On Earth That Allow Their Children To Come Back Home." — Bill Cosby**
+> **"Success Depends Upon Previous Preparation, And Without Such Preparation There Is Sure To Be Failure." — Confucius**
 <!--QUOTE_END-->
 
 ---
