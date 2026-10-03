@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"When I Am Presented With Good Work, I Accept It. Wherever It Is." — Phylicia Rashad**
+> **"We Are Not Trying To Entertain The Critics. I'Ll Take My Chances With The Public." — Walt Disney**
 <!--QUOTE_END-->
 
 ---
