@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Success Depends Upon Previous Preparation, And Without Such Preparation There Is Sure To Be Failure." — Confucius**
+> **"What Would Be Ugly In A Garden Constitutes Beauty In A Mountain." — Victor Hugo**
 <!--QUOTE_END-->
 
 ---
