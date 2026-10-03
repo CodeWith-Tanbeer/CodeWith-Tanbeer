@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"We Are Not Trying To Entertain The Critics. I'Ll Take My Chances With The Public." — Walt Disney**
+> **"Human Beings Are The Only Creatures On Earth That Allow Their Children To Come Back Home." — Bill Cosby**
 <!--QUOTE_END-->
 
 ---
