@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"If they can make penicillin out of moldy bread, then they can sure make something out of you." — Muhammad Ali**
+> **"Fear Allah, for He alone lives; all other things are liable to perish." — Umar ibn Al-Khattāb (R.A)**
 <!--QUOTE_END-->
 
 ---
