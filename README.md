@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"He who understands humanity seeks solitude." — Ali ibn Abi Talib (R.A)**
+> **"If they can make penicillin out of moldy bread, then they can sure make something out of you." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
