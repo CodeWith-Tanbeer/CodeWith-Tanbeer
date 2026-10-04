@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Fear Allah, for He alone lives; all other things are liable to perish." — Umar ibn Al-Khattāb (R.A)**
+> **"Those That Know, Do. Those That Understand, Teach." — Aristotle**
 <!--QUOTE_END-->
 
 ---
