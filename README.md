@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"What Would Be Ugly In A Garden Constitutes Beauty In A Mountain." — Victor Hugo**
+> **"He who understands humanity seeks solitude." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
