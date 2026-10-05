@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Let me define a leader. He must have vision and passion and not be afraid of any problem. Instead, he should know how to defeat it. Most importantly, he must work with integrity." — Abdul Kalam**
+> **"There Are Two Sides To Every Issue: One Side Is Right And The Other Is Wrong, But The Middle Is Always Evil." — Ayn Rand**
 <!--QUOTE_END-->
 
 ---
