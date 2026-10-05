@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Those That Know, Do. Those That Understand, Teach." — Aristotle**
+> **"In General, Mankind, Since The Improvement Of Cookery, Eats Twice As Much As Nature Requires." — Benjamin Franklin**
 <!--QUOTE_END-->
 
 ---
