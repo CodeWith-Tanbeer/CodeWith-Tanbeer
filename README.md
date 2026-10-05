@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"In General, Mankind, Since The Improvement Of Cookery, Eats Twice As Much As Nature Requires." — Benjamin Franklin**
+> **"Let me define a leader. He must have vision and passion and not be afraid of any problem. Instead, he should know how to defeat it. Most importantly, he must work with integrity." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
