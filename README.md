@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"There Are Two Sides To Every Issue: One Side Is Right And The Other Is Wrong, But The Middle Is Always Evil." — Ayn Rand**
+> **"The government, whether state or central, is elected. That means we have a responsibility to elect the right kind of leaders." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
