@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Don't sit and wait. Get out there, feel life. Touch the sun, and immerse in the sea." — Rumi**
+> **"My way of joking is to tell the truth. That's the funniest joke in the world." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
