@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"My way of joking is to tell the truth. That's the funniest joke in the world." — Muhammad Ali**
+> **"Acquire knowledge, and learn tranquility and dignity." — Umar ibn Al-Khattāb (R.A)**
 <!--QUOTE_END-->
 
 ---
