@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Be soulful. Be kind. Be in love." — Rumi**
+> **"We'Ve All Got Both Light And Dark Inside Us. What Matters Is The Part We Choose To Act On. That'S Who We Really Are." — J. K. Rowling**
 <!--QUOTE_END-->
 
 ---
