@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Acquire knowledge, and learn tranquility and dignity." — Umar ibn Al-Khattāb (R.A)**
+> **"Be soulful. Be kind. Be in love." — Rumi**
 <!--QUOTE_END-->
 
 ---
