@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I Am Always Ready To Learn Although I Do Not Always Like Being Taught." — Winston Churchill**
+> **"Far And Away The Best Prize That Life Has To Offer Is The Chance To Work Hard At Work Worth Doing." — Theodore Roosevelt**
 <!--QUOTE_END-->
 
 ---
