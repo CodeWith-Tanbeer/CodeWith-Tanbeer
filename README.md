@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"It'S Better To Be A Lion For A Day Than A Sheep All Your Life." — Elizabeth Kenny**
+> **"Uneasy Lies The Head That Wears A Crown." — William Shakespeare**
 <!--QUOTE_END-->
 
 ---
