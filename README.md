@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Uneasy Lies The Head That Wears A Crown." — William Shakespeare**
+> **"Sleep Is The Best Meditation." — Dalai Lama**
 <!--QUOTE_END-->
 
 ---
