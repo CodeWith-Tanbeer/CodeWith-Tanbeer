@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Sleep Is The Best Meditation." — Dalai Lama**
+> **"There is hope after despair and many suns after darkness." — Rumi**
 <!--QUOTE_END-->
 
 ---
