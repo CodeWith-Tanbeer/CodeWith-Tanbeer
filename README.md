@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"There is hope after despair and many suns after darkness." — Rumi**
+> **"Just Go Up To Somebody On The Street And Say "You'Re It!" And Then Run Away." — Ellen DeGeneres**
 <!--QUOTE_END-->
 
 ---
