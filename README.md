@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Sleep Is The Best Meditation." — Dalai Lama**
+> **"No Legacy Is So Rich As Honesty." — William Shakespeare**
 <!--QUOTE_END-->
 
 ---
