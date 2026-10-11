@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Just Go Up To Somebody On The Street And Say "You'Re It!" And Then Run Away." — Ellen DeGeneres**
+> **"Nature Hath Framed Strange Fellows In Her Time." — William Shakespeare**
 <!--QUOTE_END-->
 
 ---
