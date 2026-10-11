@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Often your utterances and expressions of your face leak out the secrets of your hidden thoughts." — Ali ibn Abi Talib (R.A)**
+> **"If a person has ten habits out of which nine are good and one bad, that bad one will destroy the good ones." — Umar ibn Al-Khattāb (R.A)**
 <!--QUOTE_END-->
 
 ---
