@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"It is better to listen to a wise enemy than to seek counsel from a foolish friend." — Ali ibn Abi Talib (R.A)**
+> **"Often your utterances and expressions of your face leak out the secrets of your hidden thoughts." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
