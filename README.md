@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Peace Cannot Be Kept By Force; It Can Only Be Achieved By Understanding." — Albert Einstein**
+> **"Now I had won the gold medal. But it didn't mean anything, because I didn't have the right color skin." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
