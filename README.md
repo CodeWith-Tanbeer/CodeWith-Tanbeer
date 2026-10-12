@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Now I had won the gold medal. But it didn't mean anything, because I didn't have the right color skin." — Muhammad Ali**
+> **"Wherever you stand, be the soul of that place." — Rumi**
 <!--QUOTE_END-->
 
 ---
