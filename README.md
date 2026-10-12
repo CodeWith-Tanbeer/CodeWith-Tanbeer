@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"If a person has ten habits out of which nine are good and one bad, that bad one will destroy the good ones." — Umar ibn Al-Khattāb (R.A)**
+> **"Peace Cannot Be Kept By Force; It Can Only Be Achieved By Understanding." — Albert Einstein**
 <!--QUOTE_END-->
 
 ---
