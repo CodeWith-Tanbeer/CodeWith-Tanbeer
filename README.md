@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Wherever you stand, be the soul of that place." — Rumi**
+> **"When my title was taken away boxing died." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
