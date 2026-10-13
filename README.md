@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"When my title was taken away boxing died." — Muhammad Ali**
+> **"A Man Should Never Neglect His Family For Business." — Walt Disney**
 <!--QUOTE_END-->
 
 ---
