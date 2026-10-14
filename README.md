@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"There is no knowledge and science like pondering and thought; and there is no prosperity and advancement like knowledge and science." — Ali ibn Abi Talib (R.A)**
+> **"Positive Thinking Will Let You Do Everything Better Than Negative Thinking Will." — Zig Ziglar**
 <!--QUOTE_END-->
 
 ---
