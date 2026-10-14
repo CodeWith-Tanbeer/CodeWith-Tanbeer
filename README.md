@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Pride in the case of a rich man is bad, but pride in the case of a poor man is worse." — Abu Bakr (R.A)**
+> **"There is no knowledge and science like pondering and thought; and there is no prosperity and advancement like knowledge and science." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
