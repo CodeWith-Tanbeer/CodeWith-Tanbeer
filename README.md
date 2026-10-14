@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Developing nations want to become developed nations." — Abdul Kalam**
+> **"Pride in the case of a rich man is bad, but pride in the case of a poor man is worse." — Abu Bakr (R.A)**
 <!--QUOTE_END-->
 
 ---
