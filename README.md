@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Positive Thinking Will Let You Do Everything Better Than Negative Thinking Will." — Zig Ziglar**
+> **"Democracy Is When The Indigent, And Not The Men Of Property, Are The Rulers." — Aristotle**
 <!--QUOTE_END-->
 
 ---
