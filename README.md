@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Difficulties in your life do not come to destroy you, but to help you realize your hidden potential and power, let difficulties know that you too are difficult." — Abdul Kalam**
+> **"The Quality, Not The Longevity, Of One'S Life Is What Is Important." — Martin Luther King, Jr.**
 <!--QUOTE_END-->
 
 ---
