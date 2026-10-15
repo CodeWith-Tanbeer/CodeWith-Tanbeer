@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The Quality, Not The Longevity, Of One'S Life Is What Is Important." — Martin Luther King, Jr.**
+> **"Rivers, ponds, lakes and streams - they all have different names, but they all contain water. Just as religions do - they all contain truths." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
