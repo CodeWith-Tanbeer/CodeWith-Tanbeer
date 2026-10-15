@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Democracy Is When The Indigent, And Not The Men Of Property, Are The Rulers." — Aristotle**
+> **"Difficulties in your life do not come to destroy you, but to help you realize your hidden potential and power, let difficulties know that you too are difficult." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
