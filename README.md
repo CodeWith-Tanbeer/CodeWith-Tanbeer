@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Forgive people so that Allah may forgive you." — Umar ibn Al-Khattāb (R.A)**
+> **"Often it isn't the mountains ahead that wear you out, it's the little pebble in your shoe." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
