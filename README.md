@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"You Cannot Escape The Responsibility Of Tomorrow By Evading It Today." — Abraham Lincoln**
+> **"The Lord Prefers Common-Looking People. That Is Why He Makes So Many Of Them." — Abraham Lincoln**
 <!--QUOTE_END-->
 
 ---
