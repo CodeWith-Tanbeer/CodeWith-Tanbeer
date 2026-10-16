@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"He who went to the kings to seek favors went away from Allah." — Umar ibn Al-Khattāb (R.A)**
+> **"Forgive people so that Allah may forgive you." — Umar ibn Al-Khattāb (R.A)**
 <!--QUOTE_END-->
 
 ---
