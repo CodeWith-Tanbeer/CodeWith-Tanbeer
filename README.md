@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"It Is Not The Employer Who Pays The Wages. Employers Only Handle The Money. It Is The Customer Who Pays The Wages." — Henry Ford**
+> **"Follow the way of life, which the Holy Prophet has shown you, for verily that is the right path." — Abu Bakr (R.A)**
 <!--QUOTE_END-->
 
 ---
