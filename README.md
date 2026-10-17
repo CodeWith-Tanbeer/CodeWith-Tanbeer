@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Champions are not generated from the championship. Champion is generated from something they have in them, desires, dreams, and visions." — Muhammad Ali**
+> **"Many Foxes Grow Gray But Few Grow Good." — Benjamin Franklin**
 <!--QUOTE_END-->
 
 ---
