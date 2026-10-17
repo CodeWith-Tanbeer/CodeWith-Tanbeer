@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Often it isn't the mountains ahead that wear you out, it's the little pebble in your shoe." — Muhammad Ali**
+> **"Champions are not generated from the championship. Champion is generated from something they have in them, desires, dreams, and visions." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
