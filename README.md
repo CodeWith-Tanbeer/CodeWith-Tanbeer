@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Goodbyes are only for those who love with their eyes. Because for those who love with heart and soul there is no such thing as separation." — Rumi**
+> **"Every Time You Smile At Someone, It Is An Action Of Love, A Gift To That Person, A Beautiful Thing." — Mother Teresa**
 <!--QUOTE_END-->
 
 ---
