@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Life'S Most Persistent And Urgent Question Is, 'What Are You Doing For Others?'" — Martin Luther King  Jr.**
+> **"Goodbyes are only for those who love with their eyes. Because for those who love with heart and soul there is no such thing as separation." — Rumi**
 <!--QUOTE_END-->
 
 ---
