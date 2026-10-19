@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Every Time You Smile At Someone, It Is An Action Of Love, A Gift To That Person, A Beautiful Thing." — Mother Teresa**
+> **"Look for the answer inside your question." — Rumi**
 <!--QUOTE_END-->
 
 ---
