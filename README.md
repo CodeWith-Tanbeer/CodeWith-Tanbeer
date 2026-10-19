@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Age is whatever you think it is. You are as old as you think you are." — Muhammad Ali**
+> **"We are born of love. Love is our mother." — Rumi**
 <!--QUOTE_END-->
 
 ---
