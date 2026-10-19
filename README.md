@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Look for the answer inside your question." — Rumi**
+> **"Without Freedom, No Art; Art Lives Only On The Restraints It Imposes On Itself, And Dies Of All Others." — Albert Camus**
 <!--QUOTE_END-->
 
 ---
