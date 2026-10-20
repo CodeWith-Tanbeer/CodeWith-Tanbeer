@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"We are born of love. Love is our mother." — Rumi**
+> **"The chess master says nothing, other than moving the silent chess piece." — Rumi**
 <!--QUOTE_END-->
 
 ---
