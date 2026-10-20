@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Riches without faith are the greatest poverty." — Ali ibn Abi Talib (R.A)**
+> **"If you want to shine like the sun, first burn like the sun." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
