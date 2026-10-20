@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Happiness Is That State Of Consciousness Which Proceeds From The Achievement Of One'S Values." — Ayn Rand**
+> **"Riches without faith are the greatest poverty." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
