@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The chess master says nothing, other than moving the silent chess piece." — Rumi**
+> **"Happiness Is That State Of Consciousness Which Proceeds From The Achievement Of One'S Values." — Ayn Rand**
 <!--QUOTE_END-->
 
 ---
