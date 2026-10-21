@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"And you? When will you begin that long journey into yourself?" — Rumi**
+> **"Wherever You Go, Go With All Your Heart." — Confucius**
 <!--QUOTE_END-->
 
 ---
