@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Wherever You Go, Go With All Your Heart." — Confucius**
+> **"A calamity does not descend except due to a sin and it is not lifted except with repentance." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
