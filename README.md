@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"A calamity does not descend except due to a sin and it is not lifted except with repentance." — Ali ibn Abi Talib (R.A)**
+> **"For great men, religion is a way of making friends; small people make religion a fighting tool." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
