@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"If you want to shine like the sun, first burn like the sun." — Abdul Kalam**
+> **"And you? When will you begin that long journey into yourself?" — Rumi**
 <!--QUOTE_END-->
 
 ---
