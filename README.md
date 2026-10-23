@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Light up the fire of love inside and blaze the thoughts away." — Rumi**
+> **"Champions aren't made in gyms. Champions are made from something they have deep inside them - a desire, a dream, a vision. They have to have the skill, and the will. But the will must be stronger than the skill." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
