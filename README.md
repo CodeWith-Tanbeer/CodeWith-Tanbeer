@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"When Red-Haired People Are Above A Certain Social Grade Their Hair Is Auburn." — Mark Twain**
+> **"Light up the fire of love inside and blaze the thoughts away." — Rumi**
 <!--QUOTE_END-->
 
 ---
