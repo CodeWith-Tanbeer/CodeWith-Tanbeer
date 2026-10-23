@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The relation of patience to iman is like the relation of the head to the body. If the head is chopped off, the body becomes useless. Then he raised his voice and said: Certainly, the one who has no patience has no iman, and patience is like a riding-beast that nevers gets tired." — Ali ibn Abi Talib (R.A)**
+> **"When Red-Haired People Are Above A Certain Social Grade Their Hair Is Auburn." — Mark Twain**
 <!--QUOTE_END-->
 
 ---
