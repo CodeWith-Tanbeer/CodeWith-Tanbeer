@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"When You Have Really Exhausted An Experience You Always Reverence And Love It." — Albert Camus**
+> **"Without Music, Life Would Be A Mistake." — Friedrich Nietzsche**
 <!--QUOTE_END-->
 
 ---
