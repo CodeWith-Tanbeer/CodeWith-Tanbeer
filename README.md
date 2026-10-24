@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"After Climbing A Great Hill, One Only Finds That There Are Many More Hills To Climb." — Nelson Mandela**
+> **"When You Have Really Exhausted An Experience You Always Reverence And Love It." — Albert Camus**
 <!--QUOTE_END-->
 
 ---
