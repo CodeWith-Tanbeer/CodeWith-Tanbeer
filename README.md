@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I'M Not Even Kind Of A Lesbian." — Oprah Winfrey**
+> **"After Climbing A Great Hill, One Only Finds That There Are Many More Hills To Climb." — Nelson Mandela**
 <!--QUOTE_END-->
 
 ---
