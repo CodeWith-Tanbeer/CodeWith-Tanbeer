@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"After Coming Into Contact With A Religious Man I Always Feel I Must Wash My Hands." — Friedrich Nietzsche**
+> **"I'M Not Even Kind Of A Lesbian." — Oprah Winfrey**
 <!--QUOTE_END-->
 
 ---
