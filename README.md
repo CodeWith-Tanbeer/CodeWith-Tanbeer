@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"If an ignorant person is attracted by the things of the world, that is bad. But if a learned person is thus attracted, it is worse." — Abu Bakr (R.A)**
+> **"As a child of God, I am greater than anything that can happen to me." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
