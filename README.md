@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Without Music, Life Would Be A Mistake." — Friedrich Nietzsche**
+> **"True success is reaching our potential without compromising our values." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
