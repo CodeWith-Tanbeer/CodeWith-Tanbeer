@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"As a child of God, I am greater than anything that can happen to me." — Abdul Kalam**
+> **"To make one good action succeed another, is the perfection of goodness." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
