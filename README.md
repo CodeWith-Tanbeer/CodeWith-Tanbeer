@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"To make one good action succeed another, is the perfection of goodness." — Ali ibn Abi Talib (R.A)**
+> **"Be like a flower that gives its fragrance even to the hand that crushed it." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
