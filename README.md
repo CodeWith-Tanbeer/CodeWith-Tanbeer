@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Nothing Will Work Unless You Do." — Maya Angelou**
+> **"For great men, religion is a way of making friends; small people make religion a fighting tool." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
