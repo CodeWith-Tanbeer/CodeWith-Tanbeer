@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Be like a flower that gives its fragrance even to the hand that crushed it." — Ali ibn Abi Talib (R.A)**
+> **"Nothing Will Work Unless You Do." — Maya Angelou**
 <!--QUOTE_END-->
 
 ---
