@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Luxury is an obstacle, and so is the fatness of the body." — Umar ibn Al-Khattāb (R.A)**
+> **"Do Not Impose On Others What You Yourself Do Not Desire." — Confucius**
 <!--QUOTE_END-->
 
 ---
