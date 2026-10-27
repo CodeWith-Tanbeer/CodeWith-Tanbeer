@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"All wars signify the failure of conflict resolution mechanisms, and they need post-war rebuilding of faith, trust and confidence." — Abdul Kalam**
+> **"Russia Is A Riddle Wrapped In A Mystery Inside An Enigma." — Winston Churchill**
 <!--QUOTE_END-->
 
 ---
