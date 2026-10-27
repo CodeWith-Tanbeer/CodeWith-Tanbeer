@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Death is teacher enough, true faith is wealth enough, and worship is action enough." — Umar ibn Al-Khattāb (R.A)**
+> **"Luxury is an obstacle, and so is the fatness of the body." — Umar ibn Al-Khattāb (R.A)**
 <!--QUOTE_END-->
 
 ---
