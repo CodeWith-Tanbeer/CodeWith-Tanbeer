@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Russia Is A Riddle Wrapped In A Mystery Inside An Enigma." — Winston Churchill**
+> **"Death is teacher enough, true faith is wealth enough, and worship is action enough." — Umar ibn Al-Khattāb (R.A)**
 <!--QUOTE_END-->
 
 ---
