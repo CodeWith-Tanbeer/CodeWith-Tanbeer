@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Do Not Impose On Others What You Yourself Do Not Desire." — Confucius**
+> **"I Don'T Know The Key To Success, But The Key To Failure Is Trying To Please Everybody." — Bill Cosby**
 <!--QUOTE_END-->
 
 ---
