@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Israel, As The Jewish State, Must Disappear From The Map." — Ahmed Yassin**
+> **"Let The Wife Make The Husband Glad To Come Home, And Let Him Make Her Sorry To See Him Leave." — Martin Luther**
 <!--QUOTE_END-->
 
 ---
