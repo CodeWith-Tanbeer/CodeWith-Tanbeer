@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"You Cannot Create Experience. You Must Undergo It." — Albert Camus**
+> **"Israel, As The Jewish State, Must Disappear From The Map." — Ahmed Yassin**
 <!--QUOTE_END-->
 
 ---
