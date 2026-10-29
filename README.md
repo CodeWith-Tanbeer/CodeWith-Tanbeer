@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The highest person is he who is of most use to humankind." — Ali ibn Abi Talib (R.A)**
+> **"Tricks And Treachery Are The Practice Of Fools, That Don'T Have Brains Enough To Be Honest." — Benjamin Franklin**
 <!--QUOTE_END-->
 
 ---
