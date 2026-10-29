@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Let The Wife Make The Husband Glad To Come Home, And Let Him Make Her Sorry To See Him Leave." — Martin Luther**
+> **"The highest person is he who is of most use to humankind." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
