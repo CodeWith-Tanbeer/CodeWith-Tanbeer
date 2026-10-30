@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"You were born with wings, why prefer to crawl through life?" — Rumi**
+> **"After Climbing A Great Hill, One Only Finds That There Are Many More Hills To Climb." — Nelson Mandela**
 <!--QUOTE_END-->
 
 ---
