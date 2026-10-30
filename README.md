@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Things Should Be Made As Simple As Possible, But Not Any Simpler." — Albert Einstein**
+> **"Only Buy Something That You'D Be Perfectly Happy To Hold If The Market Shut Down For 10 Years." — Warren Buffett**
 <!--QUOTE_END-->
 
 ---
