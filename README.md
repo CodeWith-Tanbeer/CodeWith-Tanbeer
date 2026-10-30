@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"A Goal Properly Set Is Halfway Reached." — Zig Ziglar**
+> **"You were born with wings, why prefer to crawl through life?" — Rumi**
 <!--QUOTE_END-->
 
 ---
