@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"If You Have Good Thoughts They Will Shine Out Of Your Face Like Sunbeams And You Will Always Look Lovely." — Roald Dahl**
+> **"Failure Is Simply The Opportunity To Begin Again, This Time More Intelligently." — Henry Ford**
 <!--QUOTE_END-->
 
 ---
