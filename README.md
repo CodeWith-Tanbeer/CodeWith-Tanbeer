@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"When The Solution Is Simple, God Is Answering." — Albert Einstein**
+> **"This Is One Small Step For A Man, One Giant Leap For Mankind." — Neil Armstrong**
 <!--QUOTE_END-->
 
 ---
