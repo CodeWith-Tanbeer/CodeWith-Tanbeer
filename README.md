@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"This Is One Small Step For A Man, One Giant Leap For Mankind." — Neil Armstrong**
+> **"If Past History Was All There Was To The Game, The Richest People Would Be Librarians." — Warren Buffett**
 <!--QUOTE_END-->
 
 ---
