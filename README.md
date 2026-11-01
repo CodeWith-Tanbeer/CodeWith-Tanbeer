@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"If Past History Was All There Was To The Game, The Richest People Would Be Librarians." — Warren Buffett**
+> **"Here is a relationship booster that is guaranteed to work: Every time your spouse or lover says something stupid make your eyes light up as if you just heard something brilliant." — Rumi**
 <!--QUOTE_END-->
 
 ---
