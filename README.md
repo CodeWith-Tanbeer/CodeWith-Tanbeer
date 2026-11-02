@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"To Say "I Love You" One Must First Be Able To Say The "I."" — Ayn Rand**
+> **"He who indulges in falsehood will find the paths of paradise shut to him." — Abu Bakr (R.A)**
 <!--QUOTE_END-->
 
 ---
