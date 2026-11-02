@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Here is a relationship booster that is guaranteed to work: Every time your spouse or lover says something stupid make your eyes light up as if you just heard something brilliant." — Rumi**
+> **"To Say "I Love You" One Must First Be Able To Say The "I."" — Ayn Rand**
 <!--QUOTE_END-->
 
 ---
