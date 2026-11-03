@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I Do Not Need The Idea Of God To Explain The World I Live In." — Salman Rushdie**
+> **"Knowledge is the life of the mind." — Abu Bakr (R.A)**
 <!--QUOTE_END-->
 
 ---
