@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Knowledge is the life of the mind." — Abu Bakr (R.A)**
+> **"Money Has Never Made Man Happy, Nor Will It, There Is Nothing In Its Nature To Produce Happiness. The More Of It One Has The More One Wants." — Benjamin Franklin**
 <!--QUOTE_END-->
 
 ---
