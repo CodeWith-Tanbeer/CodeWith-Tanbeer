@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Intense Love Does Not Measure, It Just Gives." — Mother Teresa**
+> **"An Appeaser Is One Who Feeds A Crocodile, Hoping It Will Eat Him Last." — Winston Churchill**
 <!--QUOTE_END-->
 
 ---
