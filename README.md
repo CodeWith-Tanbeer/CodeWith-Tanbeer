@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I Never Did A Day'S Work In My Life. It Was All Fun." — Thomas A. Edison**
+> **"Intense Love Does Not Measure, It Just Gives." — Mother Teresa**
 <!--QUOTE_END-->
 
 ---
