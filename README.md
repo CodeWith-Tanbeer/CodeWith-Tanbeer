@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I went inside my heart to see how it was. Something there makes me hear the whole world weeping." — Rumi**
+> **"Beware Of Little Expenses. A Small Leak Will Sink A Great Ship." — Benjamin Franklin**
 <!--QUOTE_END-->
 
 ---
