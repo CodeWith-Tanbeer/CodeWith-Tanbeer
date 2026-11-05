@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"An Appeaser Is One Who Feeds A Crocodile, Hoping It Will Eat Him Last." — Winston Churchill**
+> **"Every nation has to follow a certain policy: Commercial, trade, various other types of policies." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
