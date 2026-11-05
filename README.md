@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Every nation has to follow a certain policy: Commercial, trade, various other types of policies." — Abdul Kalam**
+> **"I went inside my heart to see how it was. Something there makes me hear the whole world weeping." — Rumi**
 <!--QUOTE_END-->
 
 ---
