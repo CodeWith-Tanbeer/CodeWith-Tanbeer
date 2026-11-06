@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Beware Of Little Expenses. A Small Leak Will Sink A Great Ship." — Benjamin Franklin**
+> **"Play The Game For More Than You Can Afford To Lose... Only Then Will You Learn The Game." — Winston Churchill**
 <!--QUOTE_END-->
 
 ---
