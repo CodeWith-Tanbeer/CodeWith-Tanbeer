@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Play The Game For More Than You Can Afford To Lose... Only Then Will You Learn The Game." — Winston Churchill**
+> **"Whatever happens, just keep smiling and lose yourself in Love." — Rumi**
 <!--QUOTE_END-->
 
 ---
