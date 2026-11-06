@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Whatever happens, just keep smiling and lose yourself in Love." — Rumi**
+> **"Love Is A Fruit In Season At All Times, And Within Reach Of Every Hand." — Mother Teresa**
 <!--QUOTE_END-->
 
 ---
