@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"After Climbing A Great Hill, One Only Finds That There Are Many More Hills To Climb." — Nelson Mandela**
+> **"He who wins through fraud is not a winner." — Umar ibn Al-Khattāb (R.A)**
 <!--QUOTE_END-->
 
 ---
