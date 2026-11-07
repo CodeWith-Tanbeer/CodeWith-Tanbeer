@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I Have Decided To Stick With Love. Hate Is Too Great A Burden To Bear." — Martin Luther King  Jr.**
+> **"After Climbing A Great Hill, One Only Finds That There Are Many More Hills To Climb." — Nelson Mandela**
 <!--QUOTE_END-->
 
 ---
