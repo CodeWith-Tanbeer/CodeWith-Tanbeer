@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"All My Life Through, The New Sights Of Nature Made Me Rejoice Like A Child." — Marie Curie**
+> **"I fear the day when the Kuffar are proud of their falsehood, and the Muslims are shy of their faith." — Umar ibn Al-Khattāb (R.A)**
 <!--QUOTE_END-->
 
 ---
