@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"He who wins through fraud is not a winner." — Umar ibn Al-Khattāb (R.A)**
+> **"We Are All Alike, On The Inside." — Mark Twain**
 <!--QUOTE_END-->
 
 ---
