@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"We Are All Alike, On The Inside." — Mark Twain**
+> **"All My Life Through, The New Sights Of Nature Made Me Rejoice Like A Child." — Marie Curie**
 <!--QUOTE_END-->
 
 ---
