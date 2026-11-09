@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The Love Of Heaven Makes One Heavenly." — William Shakespeare**
+> **"Eros Will Have Naked Bodies; Friendship Naked Personalities." — C. S. Lewis**
 <!--QUOTE_END-->
 
 ---
