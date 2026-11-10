@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"There Are Several Good Protections Against Temptation, But The Surest Is Cowardice." — Mark Twain**
+> **"Things Should Be Made As Simple As Possible, But Not Any Simpler." — Albert Einstein**
 <!--QUOTE_END-->
 
 ---
