@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Things Should Be Made As Simple As Possible, But Not Any Simpler." — Albert Einstein**
+> **"A Happy Marriage Is The Union Of Two Good Forgivers." — Ruth Graham**
 <!--QUOTE_END-->
 
 ---
