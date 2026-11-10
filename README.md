@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Eros Will Have Naked Bodies; Friendship Naked Personalities." — C. S. Lewis**
+> **"There Are Several Good Protections Against Temptation, But The Surest Is Cowardice." — Mark Twain**
 <!--QUOTE_END-->
 
 ---
