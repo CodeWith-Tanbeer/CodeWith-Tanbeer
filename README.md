@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"God gave me Parkinson's syndrome to show me I'm not 'The Greatest' - he is." — Muhammad Ali**
+> **"If they can make penicillin out of moldy bread, then they can sure make something out of you." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
