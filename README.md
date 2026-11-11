@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"When a man says I cannot, he has made a suggestion to himself. He has weakened his power of accomplishing that which otherwise would have been accomplished." — Muhammad Ali**
+> **"God gave me Parkinson's syndrome to show me I'm not 'The Greatest' - he is." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
