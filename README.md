@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"A Happy Marriage Is The Union Of Two Good Forgivers." — Ruth Graham**
+> **"When a man says I cannot, he has made a suggestion to himself. He has weakened his power of accomplishing that which otherwise would have been accomplished." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
