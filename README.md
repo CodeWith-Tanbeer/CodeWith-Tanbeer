@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Do we not realize that self respect comes with self reliance?" — Abdul Kalam**
+> **"A Man Who Won'T Die For Something Is Not Fit To Live." — Martin Luther King, Jr.**
 <!--QUOTE_END-->
 
 ---
