@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Once your mind stretches to a new level it never goes back to its original dimension." — Abdul Kalam**
+> **"Do we not realize that self respect comes with self reliance?" — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
