@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"If they can make penicillin out of moldy bread, then they can sure make something out of you." — Muhammad Ali**
+> **"Once your mind stretches to a new level it never goes back to its original dimension." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
