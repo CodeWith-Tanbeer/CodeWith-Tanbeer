@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"A Man Who Won'T Die For Something Is Not Fit To Live." — Martin Luther King, Jr.**
+> **"Your light is more magnificent than sunrise or sunset." — Rumi**
 <!--QUOTE_END-->
 
 ---
