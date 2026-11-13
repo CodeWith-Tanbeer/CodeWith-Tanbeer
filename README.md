@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"There is a way between voice and presence, where information flows. In disciplined silence it opens; with wandering talk it closes." — Rumi**
+> **"All Of Our Dreams Can Come True." — Walt Disney**
 <!--QUOTE_END-->
 
 ---
