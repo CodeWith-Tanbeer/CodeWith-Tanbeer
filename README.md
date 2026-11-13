@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Your light is more magnificent than sunrise or sunset." — Rumi**
+> **"There is a way between voice and presence, where information flows. In disciplined silence it opens; with wandering talk it closes." — Rumi**
 <!--QUOTE_END-->
 
 ---
