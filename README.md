@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"That'S The Real Trouble With The World, Too Many People Grow Up" — Walt Disney**
+> **"Never Put Off Till Tomorrow What You Can Do The Day After Tomorrow." — Mark Twain**
 <!--QUOTE_END-->
 
 ---
