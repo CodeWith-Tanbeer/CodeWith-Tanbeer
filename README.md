@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"All Of Our Dreams Can Come True." — Walt Disney**
+> **"That'S The Real Trouble With The World, Too Many People Grow Up" — Walt Disney**
 <!--QUOTE_END-->
 
 ---
