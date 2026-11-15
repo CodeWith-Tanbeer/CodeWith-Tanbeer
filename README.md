@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Be melting snow. Wash yourself of yourself." — Rumi**
+> **"Be like a flower that gives its fragrance even to the hand that crushed it." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
