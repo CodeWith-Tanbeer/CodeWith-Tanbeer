@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Love Matches, So Called, Have Illusion For Their Father And Need For Their Mother." — Friedrich Nietzsche**
+> **"Be melting snow. Wash yourself of yourself." — Rumi**
 <!--QUOTE_END-->
 
 ---
