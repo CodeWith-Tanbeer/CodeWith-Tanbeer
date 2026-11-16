@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I closed my mouth and spoke to you in a hundred silent ways." — Rumi**
+> **"Educationists should build the capacities of the spirit of inquiry, creativity, entrepreneurial and moral leadership among students and become their role model." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
