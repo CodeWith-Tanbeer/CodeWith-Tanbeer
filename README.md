@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Fear Is The Main Source Of Superstition, And One Of The Main Sources Of Cruelty. To Conquer Fear Is The Beginning Of Wisdom." — Bertrand Russell**
+> **"I closed my mouth and spoke to you in a hundred silent ways." — Rumi**
 <!--QUOTE_END-->
 
 ---
