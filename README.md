@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Educationists should build the capacities of the spirit of inquiry, creativity, entrepreneurial and moral leadership among students and become their role model." — Abdul Kalam**
+> **"The outcome of fear is disappointment and shyness is frustration." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
