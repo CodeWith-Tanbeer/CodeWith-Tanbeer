@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The outcome of fear is disappointment and shyness is frustration." — Ali ibn Abi Talib (R.A)**
+> **"I closed my mouth and spoke to you in a hundred silent ways." — Rumi**
 <!--QUOTE_END-->
 
 ---
