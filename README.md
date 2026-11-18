@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"A Man Should Never Neglect His Family For Business." — Walt Disney**
+> **"My toughest fight was with my first wife." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
