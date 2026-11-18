@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"I closed my mouth and spoke to you in a hundred silent ways." — Rumi**
+> **"A Man Should Never Neglect His Family For Business." — Walt Disney**
 <!--QUOTE_END-->
 
 ---
