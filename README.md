@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"My toughest fight was with my first wife." — Muhammad Ali**
+> **"If You Like Your Brother And He'S Prospering, You'Ll Be Pleased For Him." — Hamad Bin Isa Al Khalifa**
 <!--QUOTE_END-->
 
 ---
