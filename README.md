@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"We need to create brand institutions. In the fortune 500 companies, 5 Indian companies are named while 15 are from China though we have similar kind of populations." — Abdul Kalam**
+> **"The Secret To Humor Is Surprise." — Aristotle**
 <!--QUOTE_END-->
 
 ---
