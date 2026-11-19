@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"If You Like Your Brother And He'S Prospering, You'Ll Be Pleased For Him." — Hamad Bin Isa Al Khalifa**
+> **"We need to create brand institutions. In the fortune 500 companies, 5 Indian companies are named while 15 are from China though we have similar kind of populations." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
