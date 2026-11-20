@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"When Everything Seems To Be Going Against You, Remember That The Airplane Takes Off Against The Wind, Not With It." — Henry Ford**
+> **"One who rushes madly after inordinate desire, runs the risk of encountering destruction and death." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
