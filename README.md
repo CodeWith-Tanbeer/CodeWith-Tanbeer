@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The Secret To Humor Is Surprise." — Aristotle**
+> **"When Everything Seems To Be Going Against You, Remember That The Airplane Takes Off Against The Wind, Not With It." — Henry Ford**
 <!--QUOTE_END-->
 
 ---
