@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Every Aspect Of Western Culture Needs A New Code Of Ethics - A Rational Ethics - As A Precondition Of Rebirth." — Ayn Rand**
+> **"Where Sense Is Wanting, Everything Is Wanting." — Benjamin Franklin**
 <!--QUOTE_END-->
 
 ---
