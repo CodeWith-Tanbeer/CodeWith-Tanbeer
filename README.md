@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"To maintain nice relation with the people is half of intelligence, nice questioning is half of knowledge, and nice domestic arrangements is half of the management of livelihood." — Ali ibn Abi Talib (R.A)**
+> **"To Be Perfectly Happy It Does Not Suffice To Possess Happiness, It Is Necessary To Have Deserved It." — Victor Hugo**
 <!--QUOTE_END-->
 
 ---
