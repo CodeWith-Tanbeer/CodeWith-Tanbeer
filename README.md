@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Where Sense Is Wanting, Everything Is Wanting." — Benjamin Franklin**
+> **"To maintain nice relation with the people is half of intelligence, nice questioning is half of knowledge, and nice domestic arrangements is half of the management of livelihood." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
