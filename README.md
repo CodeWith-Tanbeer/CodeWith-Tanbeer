@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"A Nation That Continues Year After Year To Spend More Money On Military Defense Than On Programs Of Social Uplift Is Approaching Spiritual Doom." — Martin Luther King  Jr.**
+> **"In every religion there is love, yet love has no religion." — Rumi**
 <!--QUOTE_END-->
 
 ---
