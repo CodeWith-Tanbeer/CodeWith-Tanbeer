@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"To Be Perfectly Happy It Does Not Suffice To Possess Happiness, It Is Necessary To Have Deserved It." — Victor Hugo**
+> **"Two things cause people to be destroyed: fear of poverty and seeking superiority through pride." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
