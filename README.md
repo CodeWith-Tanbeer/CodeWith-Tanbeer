@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Two things cause people to be destroyed: fear of poverty and seeking superiority through pride." — Ali ibn Abi Talib (R.A)**
+> **"A Nation That Continues Year After Year To Spend More Money On Military Defense Than On Programs Of Social Uplift Is Approaching Spiritual Doom." — Martin Luther King  Jr.**
 <!--QUOTE_END-->
 
 ---
