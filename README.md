@@ -76,7 +76,7 @@ I thrive in both collaborative team environments and independent work settings, 
 # 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"In every religion there is love, yet love has no religion." — Rumi**
+> **"Champions come and go, but to be legendary you got to have heart, more heart than the next man, more than anyone in the world." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
