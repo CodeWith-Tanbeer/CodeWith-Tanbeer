@@ -37,7 +37,7 @@ Passionate **Software Engineer** from **Bengaluru, Karnataka** specializing in s
 ### 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Champions come and go, but to be legendary you got to have heart, more heart than the next man, more than anyone in the world." — Muhammad Ali**
+> **"My Books Are Like Water; Those Of The Great Geniuses Are Wine. (Fortunately) Everybody Drinks Water." — Mark Twain**
 <!--QUOTE_END-->
 
 ---
