@@ -37,7 +37,7 @@ Passionate **Software Engineer** from **Bengaluru, Karnataka** specializing in s
 ### 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The Roots Of All Goodness Lie In The Soil Of Appreciation For Goodness." — Dalai Lama**
+> **"Faith Is Permitting Ourselves To Be Seized By The Things We Do Not See." — Martin Luther**
 <!--QUOTE_END-->
 
 ---
