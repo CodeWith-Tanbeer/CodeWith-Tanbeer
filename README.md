@@ -37,7 +37,7 @@ Passionate **Software Engineer** from **Bengaluru, Karnataka** specializing in s
 ### 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"My Books Are Like Water; Those Of The Great Geniuses Are Wine. (Fortunately) Everybody Drinks Water." — Mark Twain**
+> **"The Roots Of All Goodness Lie In The Soil Of Appreciation For Goodness." — Dalai Lama**
 <!--QUOTE_END-->
 
 ---
