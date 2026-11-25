@@ -37,7 +37,7 @@ Passionate **Software Engineer** from **Bengaluru, Karnataka** specializing in s
 ### 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Listen with ears of tolerance! See through the eyes of compassion! Speak with the language of love." — Rumi**
+> **"Look at the sky. We are not alone. The whole universe is friendly to us and conspires only to give the best to those who dream and work." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
