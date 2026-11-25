@@ -37,7 +37,7 @@ Passionate **Software Engineer** from **Bengaluru, Karnataka** specializing in s
 ### 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Faith Is Permitting Ourselves To Be Seized By The Things We Do Not See." — Martin Luther**
+> **"Listen with ears of tolerance! See through the eyes of compassion! Speak with the language of love." — Rumi**
 <!--QUOTE_END-->
 
 ---
