@@ -37,7 +37,7 @@ Passionate **Software Engineer** from **Bengaluru, Karnataka** specializing in s
 ### 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"One best book is equal to hundred good friends but one good friend is equal to a library." — Abdul Kalam**
+> **"The best revenge is to improve yourself." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
