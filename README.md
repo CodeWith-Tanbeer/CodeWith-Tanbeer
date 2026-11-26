@@ -37,7 +37,7 @@ Passionate **Software Engineer** from **Bengaluru, Karnataka** specializing in s
 ### 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Look at the sky. We are not alone. The whole universe is friendly to us and conspires only to give the best to those who dream and work." — Abdul Kalam**
+> **"One best book is equal to hundred good friends but one good friend is equal to a library." — Abdul Kalam**
 <!--QUOTE_END-->
 
 ---
