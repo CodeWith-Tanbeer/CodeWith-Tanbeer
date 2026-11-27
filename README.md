@@ -37,7 +37,7 @@ Passionate **Software Engineer** from **Bengaluru, Karnataka** specializing in s
 ### 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"Only A Philosophy Of Eternity, In The World Today, Could Justify Non-Violence." — Albert Camus**
+> **"The Hunger For Love Is Much More Difficult To Remove Than The Hunger For Bread." — Mother Teresa**
 <!--QUOTE_END-->
 
 ---
