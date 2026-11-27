@@ -37,7 +37,7 @@ Passionate **Software Engineer** from **Bengaluru, Karnataka** specializing in s
 ### 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The best revenge is to improve yourself." — Ali ibn Abi Talib (R.A)**
+> **"Only A Philosophy Of Eternity, In The World Today, Could Justify Non-Violence." — Albert Camus**
 <!--QUOTE_END-->
 
 ---
