@@ -37,7 +37,7 @@ Passionate **Software Engineer** from **Bengaluru, Karnataka** specializing in s
 ### 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"The Hunger For Love Is Much More Difficult To Remove Than The Hunger For Bread." — Mother Teresa**
+> **"You're not going to enjoy every minute of the journey, but the success you'll find at the end will make it all worth it." — Muhammad Ali**
 <!--QUOTE_END-->
 
 ---
