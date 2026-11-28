@@ -37,7 +37,7 @@ Passionate **Software Engineer** from **Bengaluru, Karnataka** specializing in s
 ### 💡 Daily Quote
 
 <!--QUOTE_START-->
-> **"You're not going to enjoy every minute of the journey, but the success you'll find at the end will make it all worth it." — Muhammad Ali**
+> **"People are of two types, they are either your brothers in faith or your equals in humanity." — Ali ibn Abi Talib (R.A)**
 <!--QUOTE_END-->
 
 ---
